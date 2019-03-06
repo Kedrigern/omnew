@@ -1,7 +1,7 @@
 ---
 layout:       blog
 title:        Brno se chce stát otevřeným městem
-image:        /media/thumbnails/city.jpg
+image:        city.jpg
 ---
 
 Členové Rady města Brna dnes vzali na vědomí iniciativu o založení spolku Otevřená města. Tento záměr je obsažen v Informační strategii města Brna jako jeden z důležitých milníků v procesu naplňování cíle Strategické řízení informatiky (STR).

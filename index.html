@@ -7,10 +7,11 @@ layout: main
   <div class="row">
     <div class="small-12 medium-4 columns imagebox">
       <a href="{{ post.url | relative_url }}">
-        <img class="thumbnail blog-posting__media" src="http://placehold.it/400x250&text=Post image" alt="{{post.title}}">
-        {% comment %}
+        {% if post.image %}
         <img class="thumbnail blog-posting__media" src="{{ post.image | prepend: 'assets/img/posts/' | relative_url }}" alt="{{post.title}}">
-        {% endcomment %}
+        {% else %}
+        <img class="thumbnail blog-posting__media" src="http://placehold.it/400x250&text=Post image" alt="{{post.title}}">
+        {% endif %}
       </a>
     </div>
     <div class="small-12 medium-8 columns">
