@@ -1,0 +1,41 @@
+---
+layout: page
+permalink: /projekty/ 
+---
+
+<h1>Projekty</h1>
+
+<h2>Sofware</h2>
+
+<div class="row">
+{% for projekt in site.data.projekty.software %}
+  <div class="card" style="width: 300px;">
+    <div class="card-divider">
+      <h4>{{projekt.title}}</h4>
+    </div>
+    <img src="/assets/img/{{projekt.img}}">
+    <div class="card-section">
+      <p>{{projekt.subtitle}}</p>
+    </div>
+  </div>
+{% endfor %} 
+</div>
+
+<div class="row">
+  <div class="columns medium-4">
+    <h2>Slevy</h2>
+    {% for projekt in site.data.projekty.slevy %}
+    <p><strong>{{projekt.title}}</strong>: {{projekt.subtitle}}</p>
+    {% endfor %} 
+  </div>
+
+  <div class="columns medium-8">
+    <h2>Odborné semináře a sdílení know-how</h2>
+
+    {% for projekt in site.data.projekty.knowhow %}
+      <div class="columns medium-4">
+      <p>{{projekt.subtitle}}</p>
+      </div>
+    {% endfor %} 
+  </div>
+</div>

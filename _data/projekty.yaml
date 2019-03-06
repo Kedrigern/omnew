@@ -1,0 +1,33 @@
+software:
+  - title: Cityvizor
+    subtitle: Rozklikávací rozpočet pro každého  
+    img: projekty/cityvizor.jpg
+    url: https://cityvizor.cz
+    short: Moderní, rychlý a podrobný rozklikávací rozpočet pro každého. Stačí dodat ananymizovaná data a můžete se zapojit.
+    long:
+    homepage: yes
+  - title: Internet věcí
+    img: projekty/iot.svg
+    url: https://iot.otevrenamesta.cz
+    subtitle: Páteř pro vaše chytré město
+    short: Síť složená z komoditního HW a softwarový backend, které vám umožní propojit senzory napříč městem. Pilotní nasazení v roce 2018 proběhlo v Novém městě na Moravě.
+    long:
+    homepage: yes
+  - title: Webové stránky obce
+    img: projekty/praha7.png
+    url: https://praha7.cz
+    subtitle: Nevymýšlejte kolo. Ve spolupráci s Prahou 7 jsme připravili webové stránky obce.
+  - title: Hlasování.eu
+    img: projekty/hlasovani.eu.png
+    url: https://hlasovani.eu
+    subtitle: Přehledné zobrazení hlasování zastupitelsta, výborů či rady na jednom místě.
+slevy:
+  - title: Tenderman
+    subtitle: 30% sleva pro členské obce
+  - title: D21
+knowhow:
+  - title: GDPR
+    subtitle: Pro naše obce jsme na jaře 2018 uspořádali seminář k GDPR.
+    homepage: no
+  - title: Veřejná správa prakticky
+    subtitle: Uspořádali jsme konferenci primárně zaměřenou pro naše obce.

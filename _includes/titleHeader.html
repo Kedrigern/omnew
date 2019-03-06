@@ -1,0 +1,31 @@
+<div class="sitebanner show-for-medium">
+	<div class="row">
+		<div class="columns medium-6">
+				<h2>Kdo jsme?</h2>
+				<p>Spolek 15 obcí, které chtějí být otevřené vůči svým občanům. Chceme na řešeních spolupracovat a ušetřit tím prostředky naší obce. Připojte se k nám!</p>
+				<h2>Naši členi <small>více</small></h2>
+				<p>Brno: 379 527 obyvatel</p>
+		</div>
+		<div class="columns medium-6">
+			<div class="row">
+				<div class="columns medium-12">
+					<h2>Projekty <small>více</small></h2>
+				</div>
+			</div>
+			<div class="row">
+				{% assign projekt = site.data.projekty.software[0] %}
+				<div class="columns medium-4">
+						<img class="thumbnail blog-posting__media" src="/assets/img/{{ projekt.img }}" alt="">
+				</div>
+				<div class="columns medium-6">
+					<h3>{{projekt.title}}</h3> <p>{{projekt.short}}</p>
+					{% comment %}
+					IoT: Přemýšleli jste o smart cities? Pomůžeme vám vybudovat nízkoenergetickou síť pro přenos dat na větší vzdálenosti.
+					Semináře: Trápilo vás GDPR? Naši členi měli školení, kde jsme vše prošli.
+					Slevy: Jako členové spolku obdržíte slevy od našich partnerů: tenderman 30%.
+					{% endcomment %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
