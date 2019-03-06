@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-03-06T17:04:51+00:00</updated><id>/feed.xml</id><title type="html">new Otevřená města</title><subtitle>Zveřejnování smluv a dobrá praxe, Open source, Open data, Zapojení občanů online, Spolupráce s ostatními aktéry
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Veřejná správa prakticky</title><link href="/2019/vsp-2019.html" rel="alternate" type="text/html" title="Veřejná správa prakticky" /><published>2019-02-14T00:00:00+00:00</published><updated>2019-02-14T00:00:00+00:00</updated><id>/2019/vsp-2019</id><content type="html" xml:base="/2019/vsp-2019.html">&lt;p&gt;Dne 26. 2. 2019 se v Pardubicích uskuteční 1. ročník setkání specialistů ICT měst a obcí - Veřejná správa prakticky, které pořádají Otevřená města spolu s Univerzitou Pardubice.&lt;/p&gt;
+
+&lt;p&gt;Hlavními tématy jsou participativní technologie, IoT, knowledge management a sdílení, CityVizor a problematika GIS.
+Cílem je také monitoring aktuálních problémů, se kterými se obce potýkají a hledání jejich společných řešení a možností spolupráce.&lt;/p&gt;
+
+&lt;p&gt;Aktualizace:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Setkání je určeno pro&lt;/strong&gt; všechny, kteří :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;se zajímají o moderní a efektivní fungování úřadu, Smart City, IoT, GIS, …&lt;/li&gt;
+  &lt;li&gt;chtějí sdílet nejčastější problémy a hledat jejich přenositelná řešení&lt;/li&gt;
+  &lt;li&gt;chtějí zjistit, jak sdílet vlastní finanční, lidské a další zdroje a nenechávat ladem již dostupné&lt;/li&gt;
+  &lt;li&gt;se zajímají, jak by s řešením aktuálních problémů měst a obcí mohla pomoci Otevřená města&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;program&quot;&gt;Program&lt;/h2&gt;
+
+&lt;h3 id=&quot;představení-fakulty-ekonomicko-správní-a-výzkumů-zaměřených-na-participativní-technologie&quot;&gt;Představení Fakulty ekonomicko-správní a výzkumů zaměřených na participativní technologie&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jitka Komárková, Hana Kopáčková &lt;/td&gt;
+      &lt;td&gt;Univerzita Pardubice&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Budou představeny dva současné směry výzkumu Fakulty ekonomicko-správní Univerzity Pardubice - participativní technologie, které umožňují aktivní zapojení občanů do místního dění a komunikace se samosprávou, a hodnocení použitelnosti se zaměřením na webové GIS technologie (geoportály). Představíme rovněž hostující univerzitu a její fakulty s důrazem na Fakultu ekonomicko-správní. Nastíníme možnosti spolupráce a předvedeme ukázky studentských prací. &lt;/p&gt;
+
+&lt;h3 id=&quot;cityvizor-po-roce-a-půl&quot;&gt;CityVizor po roce a půl&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Martin Kopeček&lt;/td&gt;
+      &lt;td&gt;MF ČR&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Aplikace povzbuzená několikerým oceněním se dále rozvíjí. Podíváme se, co je nového, co se plánuje, ale hlavně na praxi připojování jednotlivých obcí. A velmi rádi se dozvíme, v čem vám pomáhá a co jí naopak chybí.&lt;/p&gt;
+
+&lt;h3 id=&quot;přestávka-na-oběd&quot;&gt;Přestávka na oběd.&lt;/h3&gt;
+&lt;p&gt;Oběd je zajištěn v nedaleké restauraci U Josefa.&lt;/p&gt;
+
+&lt;h3 id=&quot;iot-otevřeně-levně-a-snadno&quot;&gt;IoT otevřeně, levně a snadno&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Zbyněk Grepl&lt;/td&gt;
+      &lt;td&gt;Nové Město na Moravě&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Jak si postavit vlastní síť LoRaWAN pro potřeby města. Jak ji dát k dispozici firmám a občanům. Dozvíte se úskalí, která vás mohou potkat. Seznámím vás praktickým nasazením. Dále se dozvíte, v čem je dobré se opírat o komunitu TTN (The Things Network).&lt;/p&gt;
+
+&lt;h3 id=&quot;knowledge-management-organizací-a-zároveň-sdílení-znalostí-napříč-čr&quot;&gt;Knowledge management organizací a zároveň sdílení znalostí napříč ČR&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ladislav Nešněra&lt;/td&gt;
+      &lt;td&gt;Otevřená města, z. s.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Odchod pracovníků, klíčových dvojnásob, je známou zranitelností organizací. Podíváme se a prakticky vyzkoušíme, jak problému efektivně čelit pomocí projektu, který tu je s námi přes 18 let a zároveň umožňuje sdílení znalostí více jak 6 000 českých obcí.&lt;/p&gt;
+
+&lt;h3 id=&quot;otevřený-projekt-gisquick---rychlé-sdílení-dat-z-prostředí-qgis&quot;&gt;Otevřený projekt GISQuick - rychlé sdílení dat z prostředí QGIS&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jáchym Čepický&lt;/td&gt;
+      &lt;td&gt;OpenGeoLabs s.r.o&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;QGISQuick je open source webová publikační platforma prostorových dat. Pomocí Gisquick vytvoříte webovou mapu “na několik klinutí” z prostředí desktopu QGIS. Gisquick jsme vytvořili spolu s našimi slovenskými kolegy a uplatnili jsme při tom naše společné zkušenosti při tvorbě mapových aplikací pro menší obce. Součástí prezentace bude živá ukázka a naším cílem je i zpětná vazba, co musí webová mapa umět, aby byla atraktivní pro obce v ČR? Gisquick můžete už nyní vyzkoušet na adrese http://gisquick.org a to jak na vlastních datech, tak na několika připravených veřejných projektech. &lt;/p&gt;
+
+&lt;h3 id=&quot;slasti-a-strasti-obecního-ict&quot;&gt;Slasti a strasti obecního ICT&lt;/h3&gt;
+
+&lt;p&gt;Společná diskuze a sdílení praktických zkušeností i aktuálních problémů. Možnosti vzájemné spolupráce.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Volné pokračování v prostorách Pivovaru Pardubice&lt;/strong&gt; (17:00 – 19:00)&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">Dne 26. 2. 2019 se v Pardubicích uskuteční 1. ročník setkání specialistů ICT měst a obcí - Veřejná správa prakticky, které pořádají Otevřená města spolu s Univerzitou Pardubice. Hlavními tématy jsou participativní technologie, IoT, knowledge management a sdílení, CityVizor a problematika GIS. Cílem je také monitoring aktuálních problémů, se kterými se obce potýkají a hledání jejich společných řešení a možností spolupráce. Aktualizace: Setkání je určeno pro všechny, kteří : se zajímají o moderní a efektivní fungování úřadu, Smart City, IoT, GIS, … chtějí sdílet nejčastější problémy a hledat jejich přenositelná řešení chtějí zjistit, jak sdílet vlastní finanční, lidské a další zdroje a nenechávat ladem již dostupné se zajímají, jak by s řešením aktuálních problémů měst a obcí mohla pomoci Otevřená města Program Představení Fakulty ekonomicko-správní a výzkumů zaměřených na participativní technologie Jitka Komárková, Hana Kopáčková  Univerzita Pardubice Budou představeny dva současné směry výzkumu Fakulty ekonomicko-správní Univerzity Pardubice - participativní technologie, které umožňují aktivní zapojení občanů do místního dění a komunikace se samosprávou, a hodnocení použitelnosti se zaměřením na webové GIS technologie (geoportály). Představíme rovněž hostující univerzitu a její fakulty s důrazem na Fakultu ekonomicko-správní. Nastíníme možnosti spolupráce a předvedeme ukázky studentských prací.  CityVizor po roce a půl Martin Kopeček MF ČR Aplikace povzbuzená několikerým oceněním se dále rozvíjí. Podíváme se, co je nového, co se plánuje, ale hlavně na praxi připojování jednotlivých obcí. A velmi rádi se dozvíme, v čem vám pomáhá a co jí naopak chybí. Přestávka na oběd. Oběd je zajištěn v nedaleké restauraci U Josefa. IoT otevřeně, levně a snadno Zbyněk Grepl Nové Město na Moravě Jak si postavit vlastní síť LoRaWAN pro potřeby města. Jak ji dát k dispozici firmám a občanům. Dozvíte se úskalí, která vás mohou potkat. Seznámím vás praktickým nasazením. Dále se dozvíte, v čem je dobré se opírat o komunitu TTN (The Things Network). Knowledge management organizací a zároveň sdílení znalostí napříč ČR Ladislav Nešněra Otevřená města, z. s. Odchod pracovníků, klíčových dvojnásob, je známou zranitelností organizací. Podíváme se a prakticky vyzkoušíme, jak problému efektivně čelit pomocí projektu, který tu je s námi přes 18 let a zároveň umožňuje sdílení znalostí více jak 6 000 českých obcí. Otevřený projekt GISQuick - rychlé sdílení dat z prostředí QGIS Jáchym Čepický OpenGeoLabs s.r.o QGISQuick je open source webová publikační platforma prostorových dat. Pomocí Gisquick vytvoříte webovou mapu “na několik klinutí” z prostředí desktopu QGIS. Gisquick jsme vytvořili spolu s našimi slovenskými kolegy a uplatnili jsme při tom naše společné zkušenosti při tvorbě mapových aplikací pro menší obce. Součástí prezentace bude živá ukázka a naším cílem je i zpětná vazba, co musí webová mapa umět, aby byla atraktivní pro obce v ČR? Gisquick můžete už nyní vyzkoušet na adrese http://gisquick.org a to jak na vlastních datech, tak na několika připravených veřejných projektech.  Slasti a strasti obecního ICT Společná diskuze a sdílení praktických zkušeností i aktuálních problémů. Možnosti vzájemné spolupráce. Volné pokračování v prostorách Pivovaru Pardubice (17:00 – 19:00)</summary></entry><entry><title type="html">NEWSLETTER DUBEN - LISTOPAD 2018</title><link href="/2018/Newsletter_003.html" rel="alternate" type="text/html" title="NEWSLETTER DUBEN - LISTOPAD 2018" /><published>2018-11-17T00:00:00+00:00</published><updated>2018-11-17T00:00:00+00:00</updated><id>/2018/Newsletter_003</id><content type="html" xml:base="/2018/Newsletter_003.html">&lt;p&gt;V létě proběhla &lt;strong&gt;členská schůze&lt;/strong&gt;. Máme zvolené nové vedení. Předsedou výboru se stal Ondřej Profant. Dále byly na členské schůzi prezentovány projekty, které náš spolek financuje. &lt;a href=&quot;https://youtu.be/AEMxMOToVdc&quot;&gt;Záznamy klíčových přednášek&lt;/a&gt; (např. Portál občana, Mapy bez bariér, IoT, …) najdete na našem YouTube kanálu, prezentace v &lt;a href=&quot;https://gitlab.com/otevrenamesta/documents/tree/master/knihovnicka&quot;&gt;knihovničce&lt;/a&gt; a k dispozici je samozřejmě i &lt;a href=&quot;https://gitlab.com/otevrenamesta/documents/blob/master/schuze/2018_06_28/zapis_2018_06_28.pdf&quot;&gt;zápis&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Spolupracujeme s projektem &lt;a href=&quot;https://www.youtube.com/watch?v=AEMxMOToVdc&amp;amp;t=9260s&quot;&gt;&lt;strong&gt;Tenderman&lt;/strong&gt;&lt;/a&gt; z dílny &lt;a href=&quot;http://www.datlab.cz/&quot;&gt;Datlabu&lt;/a&gt;. Členské obce tak mají možnost získat pro první rok používání slevu 33%. Tento projekt je zaměřen na  přípravu zadávací dokumentace a průzkum trhu, více na &lt;a href=&quot;https://tenderman.cz&quot;&gt;webu projektu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Přes léto jsme se vrhli na Smart Cities projekty. Konkrétně univerzální infrastrukturu pro &lt;a href=&quot;https://cs.wikipedia.org/wiki/Internet_v%C4%9Bc%C3%AD&quot;&gt;&lt;strong&gt;Internet of Things&lt;/strong&gt;&lt;/a&gt; (IoT). Obec zainvestuje brány, které přijímají data ze všech senzorů. Je jedno, zda se jedná o data obce či soukromníků. Díky spolupráci lidí z &lt;a href=&quot;https://cs.wikipedia.org/wiki/Hackerspace&quot;&gt;hackerspace&lt;/a&gt; &lt;a href=&quot;http://base48.cz/&quot;&gt;base48&lt;/a&gt; je řešení levné a univerzální. Více se dočtete v &lt;a href=&quot;https://www.otevrenamesta.cz/nmnm_otevrelo_brany_do_IoT.html&quot;&gt;článku&lt;/a&gt;. Demonstrační provoz z Nového Města na Moravě můžete vidět na &lt;a href=&quot;https://iot.otevrenamesta.cz&quot;&gt;https://iot.otevrenamesta.cz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Další obce se připojují k rozklikávacímu rozpočtu &lt;a href=&quot;http://cityvizor.cz/&quot;&gt;&lt;strong&gt;CityVizor&lt;/strong&gt;&lt;/a&gt;. Nezapomeňte, že i vaše obec může být zdarma zapojena. Napojení na GINIS máme již dobře otestováno. Finišujeme zapojení Domažlic, které využívají účetní software VERA Radnice.&lt;/p&gt;
+
+&lt;p&gt;Přebíráme projekt &lt;a href=&quot;https://www.mapasamospravy.cz&quot;&gt;Mapa samosprávy&lt;/a&gt;, který byl oceněn např. v soutěži “Otevřeno x zavřeno”. Poskytuje data z úředních desek vizualizovaná v mapě, ale již delší čas je nedostupná z důvodu nedostatku zdrojů, což je obzvlášť nepříjemné, neboť ji využíváme v našem CityVizoru. Tímto krokem chceme situaci nejen pro nás napravit.&lt;/p&gt;
+
+&lt;p&gt;Objednáváme úpravu &lt;a href=&quot;https://cs.wikipedia.org/wiki/LibreOffice&quot;&gt;&lt;strong&gt;LibreOffice&lt;/strong&gt;&lt;/a&gt; (svobodného kancelářského balíku), která umožní lepší integraci s aplikacemi třetích stran (např. VITA, VERA, …). Tento požadavek zazněl z několika měst, kde právě tento software pro potřeby veřejné správy používají.&lt;/p&gt;
+
+&lt;p&gt;Činnost spolku jsme &lt;strong&gt;prezentovali&lt;/strong&gt; na konferencích &lt;a href=&quot;https://www.linuxdays.cz/2018/&quot;&gt;LinuxDays&lt;/a&gt; v Praze, &lt;a href=&quot;https://www.openalt.cz/2018/&quot;&gt;OpenAlt&lt;/a&gt; v Brně nebo na školení &lt;a href=&quot;http://www.smocr.cz/cz/nase-projekty/efektivni-sprava-obci/aktuality/projekt-eso-startuje-svaz-mest-a-obci-cr-skoli-prvni-zastupitele-a-uredniky.aspx&quot;&gt;Efektivní správa obcí&lt;/a&gt;. Všechny prezentace naleznete v již zmíněné knihovničce.&lt;/p&gt;
+
+&lt;p&gt;Na členské schůzi naznačený model &lt;strong&gt;sdílení znalostí&lt;/strong&gt; prostřednictvím wiki aplikujeme sami na sobě, čímž vzniká např. &lt;a href=&quot;https://cs.wikiversity.org/wiki/VS/P%C3%ADskovi%C5%A1t%C4%9B/CityVizor_prakticky&quot;&gt;stručný popis CityVizoru&lt;/a&gt;, &lt;a href=&quot;https://cs.wikiversity.org/wiki/Datov%C3%A1_schr%C3%A1nka_prakticky&quot;&gt;práce s Datovými schránkami&lt;/a&gt; nebo dokumentace výše zmíněného IoT (přesněji &lt;a href=&quot;https://cs.wikiversity.org/wiki/The_Things_Network_prakticky&quot;&gt;TTN&lt;/a&gt;). Formou wiki tedy zpracováváme to, co bychom si předávali mezi sebou nebo na co jsme často tázáni zvenku. Prvotní zpracování je samozřejmě pracnější, ale znalost tak nezůstává pouze v hlavách či šuplících jednotlivců, opakovaně se nevynalézá kolo a na texty je možné velmi efektivně odkazovat. Jak rychle se zaplní “bílá místa” je na nás všech.&lt;/p&gt;
+
+&lt;p&gt;Zahájili jsme &lt;strong&gt;spolupráci&lt;/strong&gt; s dalšími subjekty, především z univerzitního prostředí (např. &lt;a href=&quot;http://kisk.phil.muni.cz/cs&quot;&gt;KISK&lt;/a&gt; nebo &lt;a href=&quot;https://www.vse.cz/&quot;&gt;VŠE&lt;/a&gt;). Jako oboustranně prospěšná se ukazuje součinnost s centrálními institucemi jako &lt;a href=&quot;https://cs.wikipedia.org/wiki/Ministerstvo_vnitra_%C4%8Cesk%C3%A9_republiky&quot;&gt;MV ČR&lt;/a&gt;. O těchto aktivitách však až příště. Malou ochutnávkou je možnost připomínkování &lt;a href=&quot;https://data.gov.cz/otev%C5%99en%C3%A9-form%C3%A1ln%C3%AD-normy/faktury/draft/&quot;&gt;návrhu zveřejňování faktur&lt;/a&gt;, kde autoři doufají ve vaše praktické postřehy z pohledu potenciálních poskytovatelů i příjemců dat (provedete odkazem “Nahlaste bug”, což odpovídá zadání &lt;a href=&quot;https://cs.wikiversity.org/wiki/GitHub_prakticky#Zad%C3%A1n%C3%AD_podn%C4%9Btu&quot;&gt;podnětu na  GitHubu&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Z vnějšího světa připomeňme stále běžící projekt &lt;a href=&quot;https://gov.turris.cz/#&quot;&gt;“Bezplatný router pro veřejnou správu”&lt;/a&gt;, který umožňuje &lt;strong&gt;získat router&lt;/strong&gt; výkonnostně vhodný pro &lt;a href=&quot;http://www.rokvobci.cz/zpravy-redaktoru/detail/692-rozdeleni-obci-dle-rozsahu-prenesene--pusobnosti/&quot;&gt;obce I. a II. typu&lt;/a&gt;, případně pro obdobně náročná detašovaná pracoviště obcí typu vyššího. Nenechte se odradit na stránce uvedeným termínem “Požádejte si do 30. června 2018..”. Je neoficiálně prodloužen do konce roku. Stačí požádat (pozor - forma je čistě elektronická, telefon nehledejte).&lt;/p&gt;
+
+&lt;p&gt;Hodit se mohou též otevřené &lt;strong&gt;kurzy open source software pro GIS&lt;/strong&gt; (QGIS, PostGIS, GRASS GIS a další) pořádané skupinou GISMentors. Letošní &lt;a href=&quot;https://kurzy.gismentors.cz/&quot;&gt;podzimní termíny&lt;/a&gt; jsou v plném běhu, další veřejné termíny se plánují až na únor/březen 2019.&lt;/p&gt;
+
+&lt;p&gt;A stále také platí - nejlepším iniciátorem úspěšného projektu je vždy obec same. Nebojte se tedy &lt;strong&gt;podělit o své nápady a poznatky&lt;/strong&gt;. Rádi zajistíme koordinaci i technickou realizaci projektů, které pomohou i dalším obcím.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">V létě proběhla členská schůze. Máme zvolené nové vedení. Předsedou výboru se stal Ondřej Profant. Dále byly na členské schůzi prezentovány projekty, které náš spolek financuje. Záznamy klíčových přednášek (např. Portál občana, Mapy bez bariér, IoT, …) najdete na našem YouTube kanálu, prezentace v knihovničce a k dispozici je samozřejmě i zápis. Spolupracujeme s projektem Tenderman z dílny Datlabu. Členské obce tak mají možnost získat pro první rok používání slevu 33%. Tento projekt je zaměřen na přípravu zadávací dokumentace a průzkum trhu, více na webu projektu. Přes léto jsme se vrhli na Smart Cities projekty. Konkrétně univerzální infrastrukturu pro Internet of Things (IoT). Obec zainvestuje brány, které přijímají data ze všech senzorů. Je jedno, zda se jedná o data obce či soukromníků. Díky spolupráci lidí z hackerspace base48 je řešení levné a univerzální. Více se dočtete v článku. Demonstrační provoz z Nového Města na Moravě můžete vidět na https://iot.otevrenamesta.cz. Další obce se připojují k rozklikávacímu rozpočtu CityVizor. Nezapomeňte, že i vaše obec může být zdarma zapojena. Napojení na GINIS máme již dobře otestováno. Finišujeme zapojení Domažlic, které využívají účetní software VERA Radnice. Přebíráme projekt Mapa samosprávy, který byl oceněn např. v soutěži “Otevřeno x zavřeno”. Poskytuje data z úředních desek vizualizovaná v mapě, ale již delší čas je nedostupná z důvodu nedostatku zdrojů, což je obzvlášť nepříjemné, neboť ji využíváme v našem CityVizoru. Tímto krokem chceme situaci nejen pro nás napravit. Objednáváme úpravu LibreOffice (svobodného kancelářského balíku), která umožní lepší integraci s aplikacemi třetích stran (např. VITA, VERA, …). Tento požadavek zazněl z několika měst, kde právě tento software pro potřeby veřejné správy používají. Činnost spolku jsme prezentovali na konferencích LinuxDays v Praze, OpenAlt v Brně nebo na školení Efektivní správa obcí. Všechny prezentace naleznete v již zmíněné knihovničce. Na členské schůzi naznačený model sdílení znalostí prostřednictvím wiki aplikujeme sami na sobě, čímž vzniká např. stručný popis CityVizoru, práce s Datovými schránkami nebo dokumentace výše zmíněného IoT (přesněji TTN). Formou wiki tedy zpracováváme to, co bychom si předávali mezi sebou nebo na co jsme často tázáni zvenku. Prvotní zpracování je samozřejmě pracnější, ale znalost tak nezůstává pouze v hlavách či šuplících jednotlivců, opakovaně se nevynalézá kolo a na texty je možné velmi efektivně odkazovat. Jak rychle se zaplní “bílá místa” je na nás všech. Zahájili jsme spolupráci s dalšími subjekty, především z univerzitního prostředí (např. KISK nebo VŠE). Jako oboustranně prospěšná se ukazuje součinnost s centrálními institucemi jako MV ČR. O těchto aktivitách však až příště. Malou ochutnávkou je možnost připomínkování návrhu zveřejňování faktur, kde autoři doufají ve vaše praktické postřehy z pohledu potenciálních poskytovatelů i příjemců dat (provedete odkazem “Nahlaste bug”, což odpovídá zadání podnětu na GitHubu) Z vnějšího světa připomeňme stále běžící projekt “Bezplatný router pro veřejnou správu”, který umožňuje získat router výkonnostně vhodný pro obce I. a II. typu, případně pro obdobně náročná detašovaná pracoviště obcí typu vyššího. Nenechte se odradit na stránce uvedeným termínem “Požádejte si do 30. června 2018..”. Je neoficiálně prodloužen do konce roku. Stačí požádat (pozor - forma je čistě elektronická, telefon nehledejte). Hodit se mohou též otevřené kurzy open source software pro GIS (QGIS, PostGIS, GRASS GIS a další) pořádané skupinou GISMentors. Letošní podzimní termíny jsou v plném běhu, další veřejné termíny se plánují až na únor/březen 2019. A stále také platí - nejlepším iniciátorem úspěšného projektu je vždy obec same. Nebojte se tedy podělit o své nápady a poznatky. Rádi zajistíme koordinaci i technickou realizaci projektů, které pomohou i dalším obcím.</summary></entry><entry><title type="html">Nové Město na Moravě otevřelo brány IoT</title><link href="/2018/nmnm_otevrelo_brany_do_IoT.html" rel="alternate" type="text/html" title="Nové Město na Moravě otevřelo brány IoT" /><published>2018-10-04T00:00:00+00:00</published><updated>2018-10-04T00:00:00+00:00</updated><id>/2018/nmnm_otevrelo_brany_do_IoT</id><content type="html" xml:base="/2018/nmnm_otevrelo_brany_do_IoT.html">&lt;p&gt;&lt;a title=&quot;Od After consultation with core team members 2018-09-10 | https://www.thethingsnetwork.org/#index-team [CC BY-SA 4.0   (https://creativecommons.org/licenses/by-sa/4.0 )], prostřednictvím Wikimedia Commons&quot; href=&quot;https://commons.wikimedia.org/wiki/File:The_Things_Network_logo.svg&quot;&gt;&lt;img width=&quot;200&quot; alt=&quot;The Things Network logo&quot; style=&quot;float: right;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Things_Network_logo.svg/200px-The_Things_Network_logo.svg.png&quot; /&gt;&lt;/a&gt;Internet věcí známý pod zkratkou &lt;a href=&quot;https://cs.wikipedia.org/wiki/Internet_v%C4%9Bc%C3%AD&quot;&gt;IoT&lt;/a&gt; je dnes všeobecně používaný a rozšířený termín, který jednoduchým slovním spojením vyjadřuje podstatu tohoto nového trendu = propojení různých „věcí“ s Internetem.
+Provozujeme infrastrukturu, tedy brány ke kterým se může kdokoliv připojit a využít je, vysvětluje roli &lt;a href=&quot;https://cs.wikipedia.org/wiki/Nov%C3%A9_M%C4%9Bsto_na_Morav%C4%9B&quot;&gt;Nového Města na Moravě&lt;/a&gt; starosta Michal Šmarda. Děje se tak díky komunikační síť IoT na otevřené platformě &lt;a href=&quot;https://cs.wikipedia.org/wiki/The_Things_Network&quot;&gt;TTN&lt;/a&gt; (The Things Network). Jedná se o bezdrátovou síť, ne nepodobnout té mobilní - ale pro IoT zařízení, která umožňuje jednoduchou a energeticky nenáročnou komunikaci s velkým dosahem. V zahraničí s tímto řešením přišel roku 2015 Amstrodam a velmi rychle se rozšířilo do šesti světadílů. Značné oblibě se těší ve Švýcarsku, kde jenom v &lt;a href=&quot;https://cs.wikipedia.org/wiki/Curych&quot;&gt;Curychu&lt;/a&gt; a jeho okolí je v provozu více jak &lt;a href=&quot;https://www.thethingsnetwork.org/community/zurich/&quot;&gt;stovka bran&lt;/a&gt;. My začínáme na dvou.&lt;/p&gt;
+
+&lt;p&gt;Naše brány také splňují &lt;a href=&quot;https://cs.wikipedia.org/wiki/Open-source_hardware&quot;&gt;open-source hardware&lt;/a&gt; principy, čímž jsme zvolili cestu, kdy v transparentnosti a nezávislosti na dodavatelích již prakticky nelze jít dál, dodává Michal Šmarda. Naším cílem je nabídnout všem lidem i firmám vlastní infrastrukturu pro IoT a podpořit tak technologický rozvoj i podnikání. Síť lze využit k vývoji a testování HW a SW studenty i kutily.&lt;/p&gt;
+
+&lt;p&gt;Naše místo je tam kde občan nestačí technicky nebo kde to začíná být finančně nákladné. Současně se uživatelé nemusí bát, že by jim město četlo data nebo mohlo ovládat světla v obýváku - vše je šifrováno. Stejně jako potřebujeme svobodný software a hardware, potřebujeme i svobodné sítě jako je TTN. Není to jen otázka technologií nebo ceny – je to otázka lidské svobody, rozložení politické a ekonomické moci a v konečném důsledku otázka přežití. Není jedno, kdo má moc nad našimi počítači a sítěmi – musíme to být my – občané, uživatelé a vlastníci jednotlivých počítačů a částí sítě. Cílem města je vytvořit podmínky pro rozvoj IoT v Novém Městě a umožnit všem využití těchto nových technologií.&lt;/p&gt;
+
+&lt;p&gt;Spolek Otevřená města připravil formou &lt;a href=&quot;https://cs.wikipedia.org/wiki/Wiki&quot;&gt;wiki&lt;/a&gt; hlavně návody a postupy jak se k Internetu věcí přes síť TTN připojit. Živá ukázka sběru dat o aktuální teplotě a vlhkosti je dostupná na adrese &lt;a href=&quot;https://iot.otevrenamesta.cz&quot;&gt;iot.otevrenamesta.cz/&lt;/a&gt;. Brány pochází z brněnského &lt;a href=&quot;https://cs.wikipedia.org/wiki/Hackerspace&quot;&gt;hackerspace&lt;/a&gt; &lt;a href=&quot;https://base48.cz//&quot;&gt;base48&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Zdroje:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;web platformy – &lt;a href=&quot;https://www.thethingsnetwork.org/&quot;&gt;https://www.thethingsnetwork.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;wiki návod pro lidi 🙂 aneb &lt;a href=&quot;https://cs.wikiversity.org/wiki/The_Things_Network_prakticky&quot;&gt;The Things Network prakticky&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linuxdays.cz/2017/program/#Sun1500room107&quot;&gt;záznam přednášky o TTN&lt;/a&gt; na konferenci &lt;a href=&quot;https://www.linuxdays.cz/&quot;&gt;LinuxDays&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&quot;text-align:right&quot;&gt;&lt;i&gt;Převzato a upraveno z &lt;a href=&quot;https://radnice.nmnm.cz/mesto-otevrelo-brany-do-internetu-veci/&quot;&gt;webu Nového Města na Moravě&lt;/a&gt;&lt;/i&gt;&lt;/div&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">Internet věcí známý pod zkratkou IoT je dnes všeobecně používaný a rozšířený termín, který jednoduchým slovním spojením vyjadřuje podstatu tohoto nového trendu = propojení různých „věcí“ s Internetem. Provozujeme infrastrukturu, tedy brány ke kterým se může kdokoliv připojit a využít je, vysvětluje roli Nového Města na Moravě starosta Michal Šmarda. Děje se tak díky komunikační síť IoT na otevřené platformě TTN (The Things Network). Jedná se o bezdrátovou síť, ne nepodobnout té mobilní - ale pro IoT zařízení, která umožňuje jednoduchou a energeticky nenáročnou komunikaci s velkým dosahem. V zahraničí s tímto řešením přišel roku 2015 Amstrodam a velmi rychle se rozšířilo do šesti světadílů. Značné oblibě se těší ve Švýcarsku, kde jenom v Curychu a jeho okolí je v provozu více jak stovka bran. My začínáme na dvou. Naše brány také splňují open-source hardware principy, čímž jsme zvolili cestu, kdy v transparentnosti a nezávislosti na dodavatelích již prakticky nelze jít dál, dodává Michal Šmarda. Naším cílem je nabídnout všem lidem i firmám vlastní infrastrukturu pro IoT a podpořit tak technologický rozvoj i podnikání. Síť lze využit k vývoji a testování HW a SW studenty i kutily. Naše místo je tam kde občan nestačí technicky nebo kde to začíná být finančně nákladné. Současně se uživatelé nemusí bát, že by jim město četlo data nebo mohlo ovládat světla v obýváku - vše je šifrováno. Stejně jako potřebujeme svobodný software a hardware, potřebujeme i svobodné sítě jako je TTN. Není to jen otázka technologií nebo ceny – je to otázka lidské svobody, rozložení politické a ekonomické moci a v konečném důsledku otázka přežití. Není jedno, kdo má moc nad našimi počítači a sítěmi – musíme to být my – občané, uživatelé a vlastníci jednotlivých počítačů a částí sítě. Cílem města je vytvořit podmínky pro rozvoj IoT v Novém Městě a umožnit všem využití těchto nových technologií. Spolek Otevřená města připravil formou wiki hlavně návody a postupy jak se k Internetu věcí přes síť TTN připojit. Živá ukázka sběru dat o aktuální teplotě a vlhkosti je dostupná na adrese iot.otevrenamesta.cz/. Brány pochází z brněnského hackerspace base48. Zdroje: web platformy – https://www.thethingsnetwork.org/ wiki návod pro lidi 🙂 aneb The Things Network prakticky záznam přednášky o TTN na konferenci LinuxDays Převzato a upraveno z webu Nového Města na Moravě</summary></entry><entry><title type="html">Výběrové řízení na asistenta výboru a projektového manažera aplikace CityVizor</title><link href="/2018/vyberove_rizeni_na_asistenta_Vyboru_a_projektoveho_manazera_aplikace_Cityvizor_2018.html" rel="alternate" type="text/html" title="Výběrové řízení na asistenta výboru a projektového manažera aplikace CityVizor" /><published>2018-09-27T00:00:00+00:00</published><updated>2018-09-27T00:00:00+00:00</updated><id>/2018/vyberove_rizeni_na_asistenta_Vyboru_a_projektoveho_manazera_aplikace_Cityvizor_2018</id><content type="html" xml:base="/2018/vyberove_rizeni_na_asistenta_Vyboru_a_projektoveho_manazera_aplikace_Cityvizor_2018.html">&lt;p&gt;Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na asistenta výboru a projektového manažera aplikace &lt;a href=&quot;https://cityvizor.cz/&quot;&gt;CityVizor&lt;/a&gt;, která slouží jako transparentní dashboard obce.&lt;/p&gt;
+
+&lt;p&gt;Poptávaná činnost:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;aktivní oslovování obcí k účasti v aplikaci &lt;a href=&quot;https://cityvizor.cz/&quot;&gt;CityVizor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;aktivní oslovování obcí k účasti ve spolku Otevřených měst&lt;/li&gt;
+  &lt;li&gt;komunikace s obcemi ohledně provozu aplikace CityVizor (první úroveň podpory)&lt;/li&gt;
+  &lt;li&gt;komunikace s členskými obcemi ohledně provozu spolku&lt;/li&gt;
+  &lt;li&gt;projektové řízení vývoje aplikace CityVizor (kontakt s programátory, grafiky, výborem, obcemi, sběr změnových požadavků apod. viz. &lt;a href=&quot;https://bit.ly/2wC4wf7&quot;&gt;Redmine&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;příprava propagace aplikace CityVizor (zajišťování účasti na konferencích apod.)&lt;/li&gt;
+  &lt;li&gt;po zaškolení obsluha CityVizoru na úrovni správy vstupních dat a základní administrace systému&lt;/li&gt;
+  &lt;li&gt;pomoc s administrativou výboru (zápisy, hlídání plnění úkolů, obsluha datové schránky) a textovými výstupy spolku (newsletter, mailing list)&lt;/li&gt;
+  &lt;li&gt;analytické práce&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nabízíme:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;200-250 Kč/h na IČo při minimálním rozsahu 30 h/měsíčně, očekávaný rozsah 50 h/měsíčně. Maximální rozsah dle dohody a časových možností. Přesná hodinová odměna dle zkušeností&lt;/li&gt;
+  &lt;li&gt;v případě hlubšího zapojení do činnosti spolku kariérní i finanční růst&lt;/li&gt;
+  &lt;li&gt;možnost podílet se na realizaci aktivit spolku Otevřených měst&lt;/li&gt;
+  &lt;li&gt;práce ve skvělém kolektivu, který má snahu něco změnit&lt;/li&gt;
+  &lt;li&gt;práci z domova (jednání výboru probíhají 1x za 14 dnů pomocí &lt;a href=&quot;https://en.wikipedia.org/wiki/Jitsi#Jitsi_Meet&quot;&gt;Jitsi Meet&lt;/a&gt;, na &lt;a href=&quot;https://cs.wikipedia.org/wiki/Instant_messaging&quot;&gt;rychlé zprávy&lt;/a&gt; máme &lt;a href=&quot;https://en.wikipedia.org/wiki/Matrix_(communication_protocol)#Clients&quot;&gt;Riot&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;seznámení se s otevřenými technologiemi, které spolek využívá&lt;/li&gt;
+  &lt;li&gt;nástup &lt;strong&gt;1. listopadu 2018&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Požadujeme:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;soběstačnost, flexibilitu&lt;/li&gt;
+  &lt;li&gt;komunikační dovednosti, reprezentativní a příjemné vystupování&lt;/li&gt;
+  &lt;li&gt;analytické schopnosti a schopnost zpracování dat a informací&lt;/li&gt;
+  &lt;li&gt;schopnost učit se moderním technologiím&lt;/li&gt;
+  &lt;li&gt;výbornou znalost českého jazyka, schopnost kvalitního samostatného písemného projevu&lt;/li&gt;
+  &lt;li&gt;spolehlivost, důvěryhodnost a pečlivost&lt;/li&gt;
+  &lt;li&gt;ztotožnění se s cíli spolku (viz. &lt;a href=&quot;https://gitlab.com/otevrenamesta/documents/blob/a6c70d153b91cf1c7d125c869608fb964114c1e5/listiny/stanovy.pdf&quot;&gt;Stanovy&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;znalost ekonomického názvosloví v rozsahu užití v CityVizor výhodou, stejně jako práce s &lt;a href=&quot;https://cs.wikipedia.org/wiki/Git&quot;&gt;Gitem&lt;/a&gt; či odlehčeným značkovacím jazykem typu &lt;a href=&quot;https://cs.wikipedia.org/wiki/Markdown&quot;&gt;Markdown&lt;/a&gt;/&lt;a href=&quot;https://cs.wikipedia.org/wiki/Wikitext&quot;&gt;Wikitext&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zasílání nabídek:&lt;/p&gt;
+
+&lt;p&gt;V nabídce nám, prosím, zašli v jednom PDF dokumentu následující materiály:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;krátký motivační dopis,&lt;/li&gt;
+  &lt;li&gt;svůj životopis&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Pokud máš zájem o upřesnění informací, neváhej se na nás obrátit &lt;a href=&quot;/kontakty/&quot;&gt;emailem či telefonicky&lt;/a&gt;.
+Poptávaná činnost bude zadávána a vykazována v systému &lt;a href=&quot;https://cs.wikipedia.org/wiki/Redmine&quot;&gt;Redmine&lt;/a&gt;.
+Nabídku nám, prosím, zašli do &lt;strong&gt;21. října 2018&lt;/strong&gt; včetně na adresu &lt;strong&gt;&lt;a href=&quot;mailto:info@otevrenamesta.cz?subject=Asistent a projektový manager CityVizor&quot;&gt;info@otevrenamesta.cz&lt;/a&gt;&lt;/strong&gt;. V následujícím týdnu se ozveme ohledně dalšího postupu.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na asistenta výboru a projektového manažera aplikace CityVizor, která slouží jako transparentní dashboard obce. Poptávaná činnost: aktivní oslovování obcí k účasti v aplikaci CityVizor aktivní oslovování obcí k účasti ve spolku Otevřených měst komunikace s obcemi ohledně provozu aplikace CityVizor (první úroveň podpory) komunikace s členskými obcemi ohledně provozu spolku projektové řízení vývoje aplikace CityVizor (kontakt s programátory, grafiky, výborem, obcemi, sběr změnových požadavků apod. viz. Redmine) příprava propagace aplikace CityVizor (zajišťování účasti na konferencích apod.) po zaškolení obsluha CityVizoru na úrovni správy vstupních dat a základní administrace systému pomoc s administrativou výboru (zápisy, hlídání plnění úkolů, obsluha datové schránky) a textovými výstupy spolku (newsletter, mailing list) analytické práce Nabízíme: 200-250 Kč/h na IČo při minimálním rozsahu 30 h/měsíčně, očekávaný rozsah 50 h/měsíčně. Maximální rozsah dle dohody a časových možností. Přesná hodinová odměna dle zkušeností v případě hlubšího zapojení do činnosti spolku kariérní i finanční růst možnost podílet se na realizaci aktivit spolku Otevřených měst práce ve skvělém kolektivu, který má snahu něco změnit práci z domova (jednání výboru probíhají 1x za 14 dnů pomocí Jitsi Meet, na rychlé zprávy máme Riot) seznámení se s otevřenými technologiemi, které spolek využívá nástup 1. listopadu 2018 Požadujeme: soběstačnost, flexibilitu komunikační dovednosti, reprezentativní a příjemné vystupování analytické schopnosti a schopnost zpracování dat a informací schopnost učit se moderním technologiím výbornou znalost českého jazyka, schopnost kvalitního samostatného písemného projevu spolehlivost, důvěryhodnost a pečlivost ztotožnění se s cíli spolku (viz. Stanovy) znalost ekonomického názvosloví v rozsahu užití v CityVizor výhodou, stejně jako práce s Gitem či odlehčeným značkovacím jazykem typu Markdown/Wikitext Zasílání nabídek: V nabídce nám, prosím, zašli v jednom PDF dokumentu následující materiály: krátký motivační dopis, svůj životopis Pokud máš zájem o upřesnění informací, neváhej se na nás obrátit emailem či telefonicky. Poptávaná činnost bude zadávána a vykazována v systému Redmine. Nabídku nám, prosím, zašli do 21. října 2018 včetně na adresu info@otevrenamesta.cz. V následujícím týdnu se ozveme ohledně dalšího postupu.</summary></entry><entry><title type="html">Členská schůze Otevřených měst &amp;amp;num;3 | Praha</title><link href="/2018/clenska_schuze_03.html" rel="alternate" type="text/html" title="Členská schůze Otevřených měst &amp;num;3 | Praha" /><published>2018-06-13T00:00:00+00:00</published><updated>2018-06-13T00:00:00+00:00</updated><id>/2018/clenska_schuze_03</id><content type="html" xml:base="/2018/clenska_schuze_03.html">&lt;p&gt;Zveme členy, zájemce o členství i ostatní příznivce na třetí členskou schůzi, která proběhne &lt;strong&gt;28. 6. v Praze od 10:00&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Členská schůze se uskutečnı́ v místnosti 330 &lt;strong&gt;Úřadu městské části Praha 5&lt;/strong&gt; na &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/?mlat=50.07301&amp;amp;mlon=14.40707#map=17/50.07301/14.40707&quot;&gt;náměstí 14. října 1381/4&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Program jednání bude odsouhlasen účastníky na začátku schůze. Předpokládaný průběh je následující:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;bod&lt;/th&gt;
+      &lt;th&gt;kdy&lt;/th&gt;
+      &lt;th&gt;co&lt;/th&gt;
+      &lt;th&gt;zpravodaj&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;09:00&lt;/td&gt;
+      &lt;td&gt;otevření místnosti&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;09:30&lt;/td&gt;
+      &lt;td&gt;začátek registrace účastníků&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;09:55&lt;/td&gt;
+      &lt;td&gt;konec registrace účastníků&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;10:00&lt;/td&gt;
+      &lt;td&gt;schválení programu schůze&lt;/td&gt;
+      &lt;td&gt;členové&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;10:10&lt;/td&gt;
+      &lt;td&gt;zpráva předsedy o činnosti (infrastruktura spolku, transparentnost a zveřejňované informace, účetnictví, registr smluv, CityVizor, Open Source web samosprávy, sdílení zkušeností, vystoupení na konferencích)&lt;/td&gt;
+      &lt;td&gt;Marcel Kolaja&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;10:45&lt;/td&gt;
+      &lt;td&gt;volba výboru a předsedy&lt;/td&gt;
+      &lt;td&gt;členové&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;11:15&lt;/td&gt;
+      &lt;td&gt;priority projektů spolku pro následující období (nové návrhy členů)&lt;/td&gt;
+      &lt;td&gt;Marcel Kolaja&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;11:30&lt;/td&gt;
+      &lt;td&gt;přestávka/oběd&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;13:00 - 14:30&lt;/td&gt;
+      &lt;td&gt;prezentace vybraných projektů z oblasti ICT přínosných pro členy Otevřených měst&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;13:00&lt;/td&gt;
+      &lt;td&gt;představení Portálu občana z MVČR&lt;/td&gt;
+      &lt;td&gt;Ondřej Profant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;13:30&lt;/td&gt;
+      &lt;td&gt;co se na poli otevřenosti podařilo Brnu&lt;/td&gt;
+      &lt;td&gt;Jiří Ulip&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;14:00&lt;/td&gt;
+      &lt;td&gt;Tenderman - průzkumy trhu pro zadavatele&lt;/td&gt;
+      &lt;td&gt;EconLab&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;14:30 - 16:00&lt;/td&gt;
+      &lt;td&gt;projekty na stole&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;CityVizor&lt;/td&gt;
+      &lt;td&gt;Daniel Kolář, Ondřej Profant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;weby Wordpress Praha 7 a PaRo Brno&lt;/td&gt;
+      &lt;td&gt;Ladislav Nešněra, Ondřej Profant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;OpenData dashboard&lt;/td&gt;
+      &lt;td&gt;Ladislav Nešněra, Jiří Ulip&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;KnowledgeBase&lt;/td&gt;
+      &lt;td&gt;Wikimedia ČR, Ladislav Nešněra&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;IoT&lt;/td&gt;
+      &lt;td&gt;Zbyněk Grepl, Ladislav Nešněra&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;..&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;16:00&lt;/td&gt;
+      &lt;td&gt;ukončení&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Tradičně si dovolujeme upozornit na skutečnost, že hlasovat mohou pouze osoby, které doložily nebo nejpozději na členské schůzi doložı́ své oprávněnı́ zastupovat člena na členské schůzi. Netýká se osob, které jsou zastupujı́cı́mi dle Zákona o obcı́ch (např. starosta, mı́stostarosta,…), nebo byly uvedeny v usnesenı́ zastupitelstva.&lt;/p&gt;
+
+&lt;p&gt;Členské schůze bude možné se účastnit také s využitı́m videokonference &lt;a href=&quot;https://en.wikipedia.org/wiki/Jitsi&quot;&gt;Jitsi&lt;/a&gt; Meet na adrese &lt;a href=&quot;https://meet.jit.si/OM-20180628&quot;&gt;https://meet.jit.si/OM-20180628&lt;/a&gt;. Vzdáleně
+bude možné hlasovat pouze pomocí &lt;a href=&quot;https://cs.wikipedia.org/wiki/Tox&quot;&gt;sítě Tox&lt;/a&gt;. Žádáme členy, kteří plánují účastnit se členské schůze vzdáleně, aby nám pro účely hlasování na členské schůzi 28. června 2018 nejpozději do 20. června 2018 zaslali zprávou z oficiálního účtu datových schránek člena Tox ID, ze kterého bude zástupce člena hlasovat. Jiná forma vzdáleného hlasování nebude možná.&lt;/p&gt;
+
+&lt;p&gt;Klienta pro Tox můžete stáhnout na adrese &lt;a href=&quot;https://tox.chat/download.html&quot;&gt;https://tox.chat/download.html&lt;/a&gt;.
+Základní návod je k dispozici na adrese &lt;a href=&quot;https://cs.wikibooks.org/wiki/Tox&quot;&gt;https://cs.wikibooks.org/wiki/Tox&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Po ukončenı́ členské schůze bude následovat afterparty. Pro účely organizace nám, prosı́m, potvrd’te předběžný zájem o účast na afterparty. Dotazy směřujte na e-mailovou adresu  &lt;a href=&quot;mailto:info@otevrenamesta.cz&quot;&gt;info@otevrenamesta.cz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Těšíme se na setkání!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.otevrenamesta.cz/clenstvi/#Seznam_členů&quot;&gt;Seznam členů a jejich zástupců&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://gitlab.com/otevrenamesta/documents/raw/master/schuze/2018_06_28/pozvanka/pozvanka.pdf&quot;&gt;Oficiální pozvánka&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;Od Jan Záruba [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) nebo CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], z Wikimedia Commons&quot; href=&quot;https://commons.wikimedia.org/wiki/File:Praha_5,_town_hall2.jpg&quot;&gt;&lt;img width=&quot;640&quot; alt=&quot;Praha 5, town hall2&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Praha_5%2C_town_hall2.jpg/512px-Praha_5%2C_town_hall2.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">Zveme členy, zájemce o členství i ostatní příznivce na třetí členskou schůzi, která proběhne 28. 6. v Praze od 10:00. Členská schůze se uskutečnı́ v místnosti 330 Úřadu městské části Praha 5 na náměstí 14. října 1381/4. Program jednání bude odsouhlasen účastníky na začátku schůze. Předpokládaný průběh je následující: bod kdy co zpravodaj   09:00 otevření místnosti     09:30 začátek registrace účastníků     09:55 konec registrace účastníků   1 10:00 schválení programu schůze členové 2 10:10 zpráva předsedy o činnosti (infrastruktura spolku, transparentnost a zveřejňované informace, účetnictví, registr smluv, CityVizor, Open Source web samosprávy, sdílení zkušeností, vystoupení na konferencích) Marcel Kolaja 3 10:45 volba výboru a předsedy členové 4 11:15 priority projektů spolku pro následující období (nové návrhy členů) Marcel Kolaja 5 11:30 přestávka/oběd   6 13:00 - 14:30 prezentace vybraných projektů z oblasti ICT přínosných pro členy Otevřených měst     13:00 představení Portálu občana z MVČR Ondřej Profant   13:30 co se na poli otevřenosti podařilo Brnu Jiří Ulip   14:00 Tenderman - průzkumy trhu pro zadavatele EconLab 7 14:30 - 16:00 projekty na stole       CityVizor Daniel Kolář, Ondřej Profant     weby Wordpress Praha 7 a PaRo Brno Ladislav Nešněra, Ondřej Profant     OpenData dashboard Ladislav Nešněra, Jiří Ulip     KnowledgeBase Wikimedia ČR, Ladislav Nešněra     IoT Zbyněk Grepl, Ladislav Nešněra     ..   8 16:00 ukončení   Tradičně si dovolujeme upozornit na skutečnost, že hlasovat mohou pouze osoby, které doložily nebo nejpozději na členské schůzi doložı́ své oprávněnı́ zastupovat člena na členské schůzi. Netýká se osob, které jsou zastupujı́cı́mi dle Zákona o obcı́ch (např. starosta, mı́stostarosta,…), nebo byly uvedeny v usnesenı́ zastupitelstva. Členské schůze bude možné se účastnit také s využitı́m videokonference Jitsi Meet na adrese https://meet.jit.si/OM-20180628. Vzdáleně bude možné hlasovat pouze pomocí sítě Tox. Žádáme členy, kteří plánují účastnit se členské schůze vzdáleně, aby nám pro účely hlasování na členské schůzi 28. června 2018 nejpozději do 20. června 2018 zaslali zprávou z oficiálního účtu datových schránek člena Tox ID, ze kterého bude zástupce člena hlasovat. Jiná forma vzdáleného hlasování nebude možná. Klienta pro Tox můžete stáhnout na adrese https://tox.chat/download.html. Základní návod je k dispozici na adrese https://cs.wikibooks.org/wiki/Tox. Po ukončenı́ členské schůze bude následovat afterparty. Pro účely organizace nám, prosı́m, potvrd’te předběžný zájem o účast na afterparty. Dotazy směřujte na e-mailovou adresu info@otevrenamesta.cz. Těšíme se na setkání! Seznam členů a jejich zástupců Oficiální pozvánka</summary></entry><entry><title type="html">NEWSLETTER PROSINEC 2017 - BŘEZEN 2018</title><link href="/2018/Newsletter_002.html" rel="alternate" type="text/html" title="NEWSLETTER PROSINEC 2017 - BŘEZEN 2018" /><published>2018-04-09T00:00:00+00:00</published><updated>2018-04-09T00:00:00+00:00</updated><id>/2018/Newsletter_002</id><content type="html" xml:base="/2018/Newsletter_002.html">&lt;h2 id=&quot;praha-7-v-cityvizoru&quot;&gt;Praha 7 v CityVizoru&lt;/h2&gt;
+&lt;p&gt;Do rozklikávacího rozpočtu CityVizor byl v březnu připojen další člen Otevřených měst, městská část Praha 7.  Data Prahy 7 si můžete prohlédnout na www.cityvizor.cz/praha7, &lt;a href=&quot;https://www.praha7.cz/na-hospodareni-prahy-7-dohlizi-cityvizor/&quot;&gt;tiskovou zprávu&lt;/a&gt; na webu Prahy 7. Pracujeme také na připojení dalších členských měst.&lt;/p&gt;
+
+&lt;p&gt;Prahu 7 jsme připojili díky spolupráci Otevřených měst s IT firmou Internet Stream, s níž má pozitivní zkušenost hned několik členských měst. Díky této spolupráci jsme schopni transformovat data ze souboru formátu kxx, který je generován účetními systémy, do csv tabulky, kterou následně CityVizor vizualizuje.  Vzhledem k nákladům spojeným s touto transformací již není CityVizor zdarma pro všechna města, ale pouze pro členy Otevřených měst. Pokud je nicméně město schopno samo dodat data v požadované csv tabulce (jako například Uherský Brod), bude připojeno i nadále zdarma.&lt;/p&gt;
+
+&lt;p&gt;Našim cílem je nyní připojit všechny existující členy Otevřených měst, kteří o to budou mít zájem a také aplikaci dále rozvíjet. Již jsme zaslali datovou zprávu všem členům s informací o možnosti připojit se k aplikaci. Dále vyvíjíme možnost fulltextového vyhledávání v aplikaci a také možnost filtrovat faktury podle dodavatele. Připravujeme také jednoduchý návod pro ty, kteří aplikaci spustí poprvé.&lt;/p&gt;
+
+&lt;h2 id=&quot;konference-o-gdpr&quot;&gt;Konference o GDPR&lt;/h2&gt;
+&lt;p&gt;Otevřená města společne se spolkem Iuridicum Remedium a poslancem Ondřejem Profantem pořádala seminář o povinnostech obecních úřadů plynoucích ze zavádění obecného nařízení o ochraně osobních údajů (GDPR). V několika tematických blocích vystoupili jako řečníci kromě Ondřeje Profanta i Helena Svatošová a Jan Vobořil z Iuridicum Remedium a Dan Jiránek, zástupce výkonného ředitele Svazu města a obcí. Zájem o seminář projevilo několik desítek lidí.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.profant.eu/soukrom%C3%AD/2018/03/12/seminar-gdpr.html&quot;&gt;Podklady ze semináře&lt;/a&gt; jsou k dispozici ke stažení stejně jako &lt;a href=&quot;https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/md/gdpr-analyza.md&quot;&gt;analýza obsahující také manuál pro obce&lt;/a&gt;. Tato analýza byla rovněž distribuována jednotlivým členským obcím a městům.&lt;/p&gt;
+
+&lt;h2 id=&quot;konference-inspirujme-se-a-open-data-expo&quot;&gt;Konference Inspirujme se a Open Data Expo&lt;/h2&gt;
+&lt;p&gt;Zástupci Otevřených měst vystoupili v únoru hned na dvou konferencích. Na konferenci &lt;a href=&quot;https://www.inspirujmese.cz/cs&quot;&gt;Inspirujme se městy a regiony&lt;/a&gt; představil Daniel Kolář aplikaci CityVizor (&lt;a href=&quot;https://www.inspirujmese.cz/sites/www.inspirujmese.cz/files/3_2_cityvizor_prezentace_kolar_v2.pdf&quot;&gt;prezentace&lt;/a&gt; a Ladislav Nešněra v prezentaci &lt;a href=&quot;https://www.inspirujmese.cz/sites/www.inspirujmese.cz/files/1_2_inspirujme_se_2018_otevrena_mesta.pdf&quot;&gt;Přes GDPR k otevřeným datům&lt;/a&gt; představil fungování spolku a také možnosti, jak mohou obce a města otevírat data díky katalogu CKAN. V této souvislosti stojí za zmínku, že město Brno &lt;a href=&quot;https://www.lupa.cz/aktuality/brno-spustilo-portal-s-daty-o-meste-nabizi-i-data-operatoru-o-pohybu-obyvatel&quot;&gt;spustilo svůj datový portál&lt;/a&gt;, na kterém se spolek podílel poskytnutím technického a odborného zázemí v přípravné a testovací fázi projektu. Případným zájemcům o zveřejňování dat nabízíme podporu.&lt;/p&gt;
+
+&lt;p&gt;Na konferenci Open Data Expo, kterou pořádá Fond Otakara Motejla, vystopil v sekci Jak se otevírají města Ladislav Nešněra, kde představil činnost a cíle spolku. V následné části nazvané Expo měla  Otevřená města společný stolek s Novým Městem na Moravě. V této části představili Daniel Kolář a Zbyněk Grepl zájemcům projekty Otevřených měst, největší zájem byl ze strany veřejnosti byl o aplikaci CityVizor. Záznam celé konference je dostupný na https://opendataexpo.osf.cz/.&lt;/p&gt;
+
+&lt;h2 id=&quot;sběr-nápadů-pro-hackathon-kóduj-pro-česko&quot;&gt;Sběr nápadů pro hackathon Kóduj pro Česko!&lt;/h2&gt;
+&lt;p&gt;Fond Otakara Motejla organizuje další ročník opendatového hackathonu. Cílem bude vývoj a úprava nástrojů a scriptů, které by měly konkrétním městům a obcím pomoct s přípravou dat na jejich otevření a publikaci, případně s využíváním otevřených technologií obecně. Všechny výstupy budou open source a po hackahtonu budou k dispozici, aby na nich mohli zájemci dále pracovat.&lt;/p&gt;
+
+&lt;p&gt;Máte-li tip na nástroj, který by vašemu městu pomohl a který by mohl být na hackathonu vyvinut, prosím kontaktujte Fond prostředníctvím &lt;a href=&quot;https://goo.gl/forms/HhVZaR8xKB7lScXw2&quot;&gt;tohoto formuláře&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;vpsfree---pokračující-spolupráce&quot;&gt;vpsFree - pokračující spolupráce&lt;/h2&gt;
+&lt;p&gt;Činnost spolku je silně závislá na technickém zázemí a jeho schopnosti dynamické reakce na aktuální potřeby. Z kapacitního hlediska nepociťujeme žádná omezení díky již druhým rokem trvající podpoře ze strany vpsFree – spolku založeném v roce 2008 za účelem hostování virtuálních serverů. Dle průzkumu trhu se jedná o 20-200 tisícovou úsporu pro náš rozpočet a nepřekvapí, že na cenových protipólech stojí otevřené versus uzavřené technologie. Čerstvé prodloužení spolupráce nás těší o to víc, že stavíme na &lt;a href=&quot;https://vpsfree.cz/o-vpsfree/&quot;&gt;stejných principech&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">Praha 7 v CityVizoru Do rozklikávacího rozpočtu CityVizor byl v březnu připojen další člen Otevřených měst, městská část Praha 7. Data Prahy 7 si můžete prohlédnout na www.cityvizor.cz/praha7, tiskovou zprávu na webu Prahy 7. Pracujeme také na připojení dalších členských měst. Prahu 7 jsme připojili díky spolupráci Otevřených měst s IT firmou Internet Stream, s níž má pozitivní zkušenost hned několik členských měst. Díky této spolupráci jsme schopni transformovat data ze souboru formátu kxx, který je generován účetními systémy, do csv tabulky, kterou následně CityVizor vizualizuje. Vzhledem k nákladům spojeným s touto transformací již není CityVizor zdarma pro všechna města, ale pouze pro členy Otevřených měst. Pokud je nicméně město schopno samo dodat data v požadované csv tabulce (jako například Uherský Brod), bude připojeno i nadále zdarma. Našim cílem je nyní připojit všechny existující členy Otevřených měst, kteří o to budou mít zájem a také aplikaci dále rozvíjet. Již jsme zaslali datovou zprávu všem členům s informací o možnosti připojit se k aplikaci. Dále vyvíjíme možnost fulltextového vyhledávání v aplikaci a také možnost filtrovat faktury podle dodavatele. Připravujeme také jednoduchý návod pro ty, kteří aplikaci spustí poprvé. Konference o GDPR Otevřená města společne se spolkem Iuridicum Remedium a poslancem Ondřejem Profantem pořádala seminář o povinnostech obecních úřadů plynoucích ze zavádění obecného nařízení o ochraně osobních údajů (GDPR). V několika tematických blocích vystoupili jako řečníci kromě Ondřeje Profanta i Helena Svatošová a Jan Vobořil z Iuridicum Remedium a Dan Jiránek, zástupce výkonného ředitele Svazu města a obcí. Zájem o seminář projevilo několik desítek lidí. Podklady ze semináře jsou k dispozici ke stažení stejně jako analýza obsahující také manuál pro obce. Tato analýza byla rovněž distribuována jednotlivým členským obcím a městům. Konference Inspirujme se a Open Data Expo Zástupci Otevřených měst vystoupili v únoru hned na dvou konferencích. Na konferenci Inspirujme se městy a regiony představil Daniel Kolář aplikaci CityVizor (prezentace a Ladislav Nešněra v prezentaci Přes GDPR k otevřeným datům představil fungování spolku a také možnosti, jak mohou obce a města otevírat data díky katalogu CKAN. V této souvislosti stojí za zmínku, že město Brno spustilo svůj datový portál, na kterém se spolek podílel poskytnutím technického a odborného zázemí v přípravné a testovací fázi projektu. Případným zájemcům o zveřejňování dat nabízíme podporu. Na konferenci Open Data Expo, kterou pořádá Fond Otakara Motejla, vystopil v sekci Jak se otevírají města Ladislav Nešněra, kde představil činnost a cíle spolku. V následné části nazvané Expo měla Otevřená města společný stolek s Novým Městem na Moravě. V této části představili Daniel Kolář a Zbyněk Grepl zájemcům projekty Otevřených měst, největší zájem byl ze strany veřejnosti byl o aplikaci CityVizor. Záznam celé konference je dostupný na https://opendataexpo.osf.cz/. Sběr nápadů pro hackathon Kóduj pro Česko! Fond Otakara Motejla organizuje další ročník opendatového hackathonu. Cílem bude vývoj a úprava nástrojů a scriptů, které by měly konkrétním městům a obcím pomoct s přípravou dat na jejich otevření a publikaci, případně s využíváním otevřených technologií obecně. Všechny výstupy budou open source a po hackahtonu budou k dispozici, aby na nich mohli zájemci dále pracovat. Máte-li tip na nástroj, který by vašemu městu pomohl a který by mohl být na hackathonu vyvinut, prosím kontaktujte Fond prostředníctvím tohoto formuláře. vpsFree - pokračující spolupráce Činnost spolku je silně závislá na technickém zázemí a jeho schopnosti dynamické reakce na aktuální potřeby. Z kapacitního hlediska nepociťujeme žádná omezení díky již druhým rokem trvající podpoře ze strany vpsFree – spolku založeném v roce 2008 za účelem hostování virtuálních serverů. Dle průzkumu trhu se jedná o 20-200 tisícovou úsporu pro náš rozpočet a nepřekvapí, že na cenových protipólech stojí otevřené versus uzavřené technologie. Čerstvé prodloužení spolupráce nás těší o to víc, že stavíme na stejných principech.</summary></entry><entry><title type="html">Výběrové řízení na vývojáře aplikace CityVizor, která slouží jako transparentní dashboard obce</title><link href="/2018/vyberove_rizeni_na_vyvojare_aplikace_CityVizor.html" rel="alternate" type="text/html" title="Výběrové řízení na vývojáře aplikace CityVizor, která slouží jako transparentní dashboard obce" /><published>2018-03-20T00:00:00+00:00</published><updated>2018-03-20T00:00:00+00:00</updated><id>/2018/vyberove_rizeni_na_vyvojare_aplikace_CityVizor</id><content type="html" xml:base="/2018/vyberove_rizeni_na_vyvojare_aplikace_CityVizor.html">&lt;p&gt;Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na vývojáře aplikace &lt;a href=&quot;https://cityvizor.cz/&quot;&gt;Cityvizor&lt;/a&gt;, která slouží jako transparentní dashboard obce.&lt;/p&gt;
+
+&lt;p&gt;Poptávaná činnost:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;správa aplikace CityVizor (cityvizor.cz): řešení ad hoc problémů, implementace dohodnutých vylepšení (návody, fulltextové vyhledávání,…)&lt;/li&gt;
+  &lt;li&gt;pomoc s přípravou softwaru pro transformaci účetních dat&lt;/li&gt;
+  &lt;li&gt;analytické práce&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Požadujeme:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;zkušenost se správou a vývojem webů ve výše zmíněných jazycích&lt;/li&gt;
+  &lt;li&gt;časovou flexibilitu v případě urgentních záležitostí&lt;/li&gt;
+  &lt;li&gt;soběstačnost&lt;/li&gt;
+  &lt;li&gt;analytické schopnosti a schopnost zpracování dat a informací&lt;/li&gt;
+  &lt;li&gt;spolehlivost, důvěryhodnost a pečlivost&lt;/li&gt;
+  &lt;li&gt;ztotožnění s cíli spolku (viz. Stanovy)&lt;/li&gt;
+  &lt;li&gt;znalost ekonomického názvosloví v rozsahu užití v CityVizor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Technické informace o CityVizoru:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Frontend: Angular 2&lt;/li&gt;
+  &lt;li&gt;Backend: Node, MongoDB&lt;/li&gt;
+  &lt;li&gt;Transformace: Python&lt;/li&gt;
+  &lt;li&gt;zdrojové kódy aplikace: https://github.com/otevrena-data-mfcr/CityVizor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hodnotící kritéria:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;odborná kvalifikace 60%&lt;/li&gt;
+  &lt;li&gt;nabídnutá cena 40%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zasílání nabídek:&lt;/p&gt;
+
+&lt;p&gt;V nabídce nám, prosím, zašlete v jednom PDF dokumentu následující materiály:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;krátký dopis popisující vaši motivaci a zkušenosti se správou webů&lt;/li&gt;
+  &lt;li&gt;svůj životopis&lt;/li&gt;
+  &lt;li&gt;nabídnutou cenu za jednu člověkohodinu
+    &lt;ul&gt;
+      &lt;li&gt;cena musí být v rozmezí 300-800 Kč/hod. Maximální rozsah spolupráce bude 80 hodin za měsíc, s možností jednorázového navýšení po předchozí domluvě&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Pokud máte zájem o upřesnění informací, neváhejte se na nás obrátit &lt;a href=&quot;/kontakty/&quot;&gt;emailem či telefonicky&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Přihlášky budou hodnoceny výborem Otevřených měst, dle hodnotících kritérií. Vzhledem k charakteru práce bude poptávaná práce dodána jako služba živnostníkem (na IČO). Přijímáme přihlášky od jednotlivců, od skupin jednotlivců i od firem. Poptávaná dílčí činnost bude zadávaná a vykazována v systému Redmine.&lt;/p&gt;
+
+&lt;p&gt;Nabídku nám, prosím, zašete do &lt;strong&gt;31. března 2018&lt;/strong&gt; včetně, a to na adresu &lt;strong&gt;&lt;a href=&quot;mailto:vybor@otevrenamesta.cz?subject=Vývojář aplikace CityVizor&quot;&gt;vybor@otevrenamesta.cz&lt;/a&gt;&lt;/strong&gt;. Do týdne se vám ozveme ohledně dalšího postupu.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na vývojáře aplikace Cityvizor, která slouží jako transparentní dashboard obce. Poptávaná činnost: správa aplikace CityVizor (cityvizor.cz): řešení ad hoc problémů, implementace dohodnutých vylepšení (návody, fulltextové vyhledávání,…) pomoc s přípravou softwaru pro transformaci účetních dat analytické práce Požadujeme: zkušenost se správou a vývojem webů ve výše zmíněných jazycích časovou flexibilitu v případě urgentních záležitostí soběstačnost analytické schopnosti a schopnost zpracování dat a informací spolehlivost, důvěryhodnost a pečlivost ztotožnění s cíli spolku (viz. Stanovy) znalost ekonomického názvosloví v rozsahu užití v CityVizor Technické informace o CityVizoru: Frontend: Angular 2 Backend: Node, MongoDB Transformace: Python zdrojové kódy aplikace: https://github.com/otevrena-data-mfcr/CityVizor Hodnotící kritéria: odborná kvalifikace 60% nabídnutá cena 40% Zasílání nabídek: V nabídce nám, prosím, zašlete v jednom PDF dokumentu následující materiály: krátký dopis popisující vaši motivaci a zkušenosti se správou webů svůj životopis nabídnutou cenu za jednu člověkohodinu cena musí být v rozmezí 300-800 Kč/hod. Maximální rozsah spolupráce bude 80 hodin za měsíc, s možností jednorázového navýšení po předchozí domluvě Pokud máte zájem o upřesnění informací, neváhejte se na nás obrátit emailem či telefonicky. Přihlášky budou hodnoceny výborem Otevřených měst, dle hodnotících kritérií. Vzhledem k charakteru práce bude poptávaná práce dodána jako služba živnostníkem (na IČO). Přijímáme přihlášky od jednotlivců, od skupin jednotlivců i od firem. Poptávaná dílčí činnost bude zadávaná a vykazována v systému Redmine. Nabídku nám, prosím, zašete do 31. března 2018 včetně, a to na adresu vybor@otevrenamesta.cz. Do týdne se vám ozveme ohledně dalšího postupu.</summary></entry><entry><title type="html">NEWSLETTER SRPEN - LISTOPAD 2017</title><link href="/2017/Newsletter_001.html" rel="alternate" type="text/html" title="NEWSLETTER SRPEN - LISTOPAD 2017" /><published>2017-12-01T00:00:00+00:00</published><updated>2017-12-01T00:00:00+00:00</updated><id>/2017/Newsletter_001</id><content type="html" xml:base="/2017/Newsletter_001.html">&lt;h2 id=&quot;cityvizor-malá-česká-revoluce&quot;&gt;CityVizor: malá česká revoluce&lt;/h2&gt;
+&lt;p&gt;Na začátku září jsme &lt;a href=&quot;http://cityvizor.cz/&quot;&gt;CityVizor&lt;/a&gt; za zájmu médií (např. &lt;a href=&quot;http://www.ceskatelevize.cz/ct24/ekonomika/2230126-nova-aplikace-umozni-zkontrolovat-radnicni-ucty-i-z-mobilu&quot;&gt;České televize&lt;/a&gt;, &lt;a href=&quot;https://www.lupa.cz/clanky/ministerstvo-financi-si-pochvalu-casto-nezaslouzi-ted-je-tu-ale-cityvizor/&quot;&gt;Lupa.cz&lt;/a&gt;) oficiálně spustili. Ondřej Profant představil CityVizor 8. října 2017 v rámci &lt;a href=&quot;https://www.linuxdays.cz/2017/video/&quot;&gt;LinuxDays&lt;/a&gt; v Praze a 4. listopadu 2017 na konferenci &lt;a href=&quot;https://www.superlectures.com/openalt2017/cityvizor&quot;&gt;OpenAlt&lt;/a&gt; v Brně.
+CityVizor byl &lt;a href=&quot;https://www.lupa.cz/clanky/hlidac-statu-vyhral-soutez-spolecne-otevirame-data-bodoval-i-cityvizor-ministerstva-financi/&quot;&gt;pozitivně hodnocen&lt;/a&gt; i odborníky na otevřená data. Společně
+s Ministerstvem financí jsme získali hned dvě ocenění v soutěži &lt;a href=&quot;http://www.otevrenadata.cz/soutez/soutezni-aplikace-2017/&quot;&gt;Společně
+otevíráme data&lt;/a&gt;. V hlavní kategorii se CityVizor umístil pátý a nadto
+získal Cenu Fondu Otakara Motejla. K tomu organizátoři soutěže dodali:
+“&lt;a href=&quot;http://www.otevrenadata.cz/soutez/soutezni-aplikace-2017/&quot;&gt;CityVizor naznačuje, kde bychom chtěli s IT veřejné správy jednou být.&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;CityVizor v současné době používají Černošice, Nové Město na Moravě
+a nejnověji také Uherský Brod. Kromě již participujících obcí evidujeme
+zájem o CityVizor ze strany několika dalších měst. S těmito městy
+komunikujeme a řešíme s nimi zejména export dat (např. na Praze
+7 a v Brně). Máte-li o nasazení rozklikávacího rozpočtu CityVizor zájem
+i ve vaší obci, neváhejte nás kontaktovat na adrese
+&lt;a href=&quot;mailto:cityvizor@otevrenamesta.cz&quot;&gt;cityvizor@otevrenamesta.cz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;O aplikaci &lt;strong&gt;CityVizor&lt;/strong&gt;:
+CityVizor je rozklikávací rozpočet, který umožňuje samosprávám zveřejňovat
+a vizualizovat data o jejich hospodaření. CityVizor je svobodný software
+uvolněný pod licencí GPLv3, který byl vyvinut pracovníky Ministerstva
+financí za účasti spolku Otevřená města. Spolek Otevřená města provozuje
+a spravuje službu &lt;a href=&quot;https://www.cityvizor.cz/&quot;&gt;CityVizor.cz&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bison-evidence-smluv&quot;&gt;BISON: Evidence smluv&lt;/h2&gt;
+&lt;p&gt;Do 30. září 2017 jsme sbírali požadavky členů na novou funkcionalitu
+a komentáře a připomínky k demo verzi. Zbyněk Grepl nyní tyto vstupy
+zpracovává a komunikuje se spolkem BISON, abychom mohli na základě
+požadavků členů navrhnout a implementovat novou funkcionalitu pomocí
+modulů, které budou uvolněny pod svobodnou licencí.&lt;/p&gt;
+
+&lt;p&gt;O aplikaci &lt;strong&gt;Evidence smluv&lt;/strong&gt; spolku BISON:
+Evidence smluv je komplexní řešení pro evidenci smluv včetně
+implementovaného systému zveřejnění smluv do Registru smluv, které vyvíjí spolek BISON.&lt;/p&gt;
+
+&lt;h2 id=&quot;veřejné-peníze-veřejný-kód&quot;&gt;Veřejné peníze? Veřejný kód!&lt;/h2&gt;
+&lt;p&gt;Otevřená města se připojila k výzvě &lt;a href=&quot;https://publiccode.eu/openletter/&quot;&gt;Public Money? Public Code!&lt;/a&gt; požadující,
+aby software vyvinut za veřejné peníze byl zároveň volně k dispozici všem. 
+Pakliže se s výzvou ztotožňujete, neváhejte ji podepsat (možno jako
+jednotlivec i organizace).&lt;/p&gt;
+
+&lt;h2 id=&quot;změna-ve-složení-výboru&quot;&gt;Změna ve složení výboru&lt;/h2&gt;
+&lt;p&gt;Přijali jsme rezignaci Viktora Čahoje a Michala Šmardy na členství ve
+výboru. Na jejich místo jsme kooptovali Radomíra Palovského a Zbyňka
+Grepla, kteří se představili na &lt;a href=&quot;https://youtu.be/5X_xUB2WQ50&quot;&gt;členské schůzi 29. června 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;posila-v-týmu-spolku-otevřená-města&quot;&gt;Posila v týmu spolku Otevřená města&lt;/h2&gt;
+&lt;p&gt;V polovině září 2017 se k týmu spolku Otevřená města připojil Dan Kolář.
+Dan pracuje jako asistent výboru a projektový manažer aplikace CityVizor
+a byl vybrán ve výběrovém řízení, které probíhalo v srpnu a září 2017.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">CityVizor: malá česká revoluce Na začátku září jsme CityVizor za zájmu médií (např. České televize, Lupa.cz) oficiálně spustili. Ondřej Profant představil CityVizor 8. října 2017 v rámci LinuxDays v Praze a 4. listopadu 2017 na konferenci OpenAlt v Brně. CityVizor byl pozitivně hodnocen i odborníky na otevřená data. Společně s Ministerstvem financí jsme získali hned dvě ocenění v soutěži Společně otevíráme data. V hlavní kategorii se CityVizor umístil pátý a nadto získal Cenu Fondu Otakara Motejla. K tomu organizátoři soutěže dodali: “CityVizor naznačuje, kde bychom chtěli s IT veřejné správy jednou být.” CityVizor v současné době používají Černošice, Nové Město na Moravě a nejnověji také Uherský Brod. Kromě již participujících obcí evidujeme zájem o CityVizor ze strany několika dalších měst. S těmito městy komunikujeme a řešíme s nimi zejména export dat (např. na Praze 7 a v Brně). Máte-li o nasazení rozklikávacího rozpočtu CityVizor zájem i ve vaší obci, neváhejte nás kontaktovat na adrese cityvizor@otevrenamesta.cz. O aplikaci CityVizor: CityVizor je rozklikávací rozpočet, který umožňuje samosprávám zveřejňovat a vizualizovat data o jejich hospodaření. CityVizor je svobodný software uvolněný pod licencí GPLv3, který byl vyvinut pracovníky Ministerstva financí za účasti spolku Otevřená města. Spolek Otevřená města provozuje a spravuje službu CityVizor.cz BISON: Evidence smluv Do 30. září 2017 jsme sbírali požadavky členů na novou funkcionalitu a komentáře a připomínky k demo verzi. Zbyněk Grepl nyní tyto vstupy zpracovává a komunikuje se spolkem BISON, abychom mohli na základě požadavků členů navrhnout a implementovat novou funkcionalitu pomocí modulů, které budou uvolněny pod svobodnou licencí. O aplikaci Evidence smluv spolku BISON: Evidence smluv je komplexní řešení pro evidenci smluv včetně implementovaného systému zveřejnění smluv do Registru smluv, které vyvíjí spolek BISON. Veřejné peníze? Veřejný kód! Otevřená města se připojila k výzvě Public Money? Public Code! požadující, aby software vyvinut za veřejné peníze byl zároveň volně k dispozici všem. Pakliže se s výzvou ztotožňujete, neváhejte ji podepsat (možno jako jednotlivec i organizace). Změna ve složení výboru Přijali jsme rezignaci Viktora Čahoje a Michala Šmardy na členství ve výboru. Na jejich místo jsme kooptovali Radomíra Palovského a Zbyňka Grepla, kteří se představili na členské schůzi 29. června 2017. Posila v týmu spolku Otevřená města V polovině září 2017 se k týmu spolku Otevřená města připojil Dan Kolář. Dan pracuje jako asistent výboru a projektový manažer aplikace CityVizor a byl vybrán ve výběrovém řízení, které probíhalo v srpnu a září 2017.</summary></entry><entry><title type="html">Výběrové řízení na asistenta Výboru a projektového manažera aplikace Cityvizor</title><link href="/2017/vyberove_rizeni_na_asistenta_Vyboru_a_projektoveho_manazera_aplikace_Cityvizor.html" rel="alternate" type="text/html" title="Výběrové řízení na asistenta Výboru a projektového manažera aplikace Cityvizor" /><published>2017-08-15T00:00:00+00:00</published><updated>2017-08-15T00:00:00+00:00</updated><id>/2017/vyberove_rizeni_na_asistenta_Vyboru_a_projektoveho_manazera_aplikace_Cityvizor</id><content type="html" xml:base="/2017/vyberove_rizeni_na_asistenta_Vyboru_a_projektoveho_manazera_aplikace_Cityvizor.html">&lt;p&gt;Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na asistenta Výboru a projektového manažera aplikace &lt;a href=&quot;https://cityvizor.cz/&quot;&gt;Cityvizor&lt;/a&gt;, která slouží jako transparentní dashboard obce.&lt;/p&gt;
+
+&lt;p&gt;Poptávaná činnost:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;aktivní oslovování obcí k účasti v aplikaci Cityvizor&lt;/li&gt;
+  &lt;li&gt;aktivní oslovování obcí k účasti ve spolku Otevřených měst&lt;/li&gt;
+  &lt;li&gt;komunikace s obcemi ohledně provozu aplikace Cityvizor (první úroveň podpory)&lt;/li&gt;
+  &lt;li&gt;komunikace s členskými obcemi ohledně provozu spolku&lt;/li&gt;
+  &lt;li&gt;projektové řízení vývoje aplikace Cityvizor (kontakt s programátory, grafiky, Výborem, obcemi, sběr změnových požadavků apod)&lt;/li&gt;
+  &lt;li&gt;příprava propagace aplikace Cityvizor (zajišťování účasti na konferencích apod.)&lt;/li&gt;
+  &lt;li&gt;pomoc s administrativou Výboru (zápisy, hlídání plnění úkolů)&lt;/li&gt;
+  &lt;li&gt;analytické práce&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nabízíme:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;200 Kč/h při minimálním rozsahu 30 h / měsíčně, očekávaný rozsah 45 h / měsíčně. Maximální rozsah dle dohody a časových možností&lt;/li&gt;
+  &lt;li&gt;možnost podílet se na realizaci aktivit spolku Otevřených měst&lt;/li&gt;
+  &lt;li&gt;práce ve skvělém kolektivu, který má snahu něco změnit&lt;/li&gt;
+  &lt;li&gt;práci z domova&lt;/li&gt;
+  &lt;li&gt;seznámení se s otevřenými technologiemi, které spolek využívá&lt;/li&gt;
+  &lt;li&gt;nástup &lt;strong&gt;15. září 2017&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Požadujeme:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;soběstačnost&lt;/li&gt;
+  &lt;li&gt;komunikační dovednosti, reprezentativní a příjemné vystupování&lt;/li&gt;
+  &lt;li&gt;analytické schopnosti a schopnost zpracování dat a informací&lt;/li&gt;
+  &lt;li&gt;výborná znalost českého jazyka, schopnost kvalitního samostatného písemného projevu&lt;/li&gt;
+  &lt;li&gt;spolehlivost, důvěryhodnost a pečlivost&lt;/li&gt;
+  &lt;li&gt;ztotožnění s cíli spolku (viz. &lt;a href=&quot;https://gitlab.com/otevrenamesta/documents/blob/a6c70d153b91cf1c7d125c869608fb964114c1e5/listiny/stanovy.pdf&quot;&gt;Stanovy&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;znalost ekonomického názvosloví v rozsahu užití v Cityvizor výhodou&lt;/li&gt;
+  &lt;li&gt;čestné prohlášení o trestní bezúhonnosti (o čistém trestním rejstříku)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zasílání nabídek:&lt;/p&gt;
+
+&lt;p&gt;V nabídce nám, prosím, zašli v jednom PDF dokumentu následující materiály:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;krátký motivační dopis,&lt;/li&gt;
+  &lt;li&gt;svůj životopis&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Pokud máš zájem o upřesnění informací, neváhej se na nás obrátit &lt;a href=&quot;/kontakty/&quot;&gt;emailem či telefonicky&lt;/a&gt;.
+Poptávaná činnost bude provedena formou Dohody o provedení práce a vykazována v systému Redmine.
+Nabídku nám, prosím, zašli do &lt;strong&gt;5. září 2017&lt;/strong&gt; včetně, do týdne se ti ozveme ohledně dalšího postupu. Nabídku pošli na adresu &lt;strong&gt;&lt;a href=&quot;mailto:vybor@otevrenamesta.cz?subject=Asistent a projektový manager Cityvizor&quot;&gt;vybor@otevrenamesta.cz&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na asistenta Výboru a projektového manažera aplikace Cityvizor, která slouží jako transparentní dashboard obce. Poptávaná činnost: aktivní oslovování obcí k účasti v aplikaci Cityvizor aktivní oslovování obcí k účasti ve spolku Otevřených měst komunikace s obcemi ohledně provozu aplikace Cityvizor (první úroveň podpory) komunikace s členskými obcemi ohledně provozu spolku projektové řízení vývoje aplikace Cityvizor (kontakt s programátory, grafiky, Výborem, obcemi, sběr změnových požadavků apod) příprava propagace aplikace Cityvizor (zajišťování účasti na konferencích apod.) pomoc s administrativou Výboru (zápisy, hlídání plnění úkolů) analytické práce Nabízíme: 200 Kč/h při minimálním rozsahu 30 h / měsíčně, očekávaný rozsah 45 h / měsíčně. Maximální rozsah dle dohody a časových možností možnost podílet se na realizaci aktivit spolku Otevřených měst práce ve skvělém kolektivu, který má snahu něco změnit práci z domova seznámení se s otevřenými technologiemi, které spolek využívá nástup 15. září 2017 Požadujeme: soběstačnost komunikační dovednosti, reprezentativní a příjemné vystupování analytické schopnosti a schopnost zpracování dat a informací výborná znalost českého jazyka, schopnost kvalitního samostatného písemného projevu spolehlivost, důvěryhodnost a pečlivost ztotožnění s cíli spolku (viz. Stanovy) znalost ekonomického názvosloví v rozsahu užití v Cityvizor výhodou čestné prohlášení o trestní bezúhonnosti (o čistém trestním rejstříku) Zasílání nabídek: V nabídce nám, prosím, zašli v jednom PDF dokumentu následující materiály: krátký motivační dopis, svůj životopis Pokud máš zájem o upřesnění informací, neváhej se na nás obrátit emailem či telefonicky. Poptávaná činnost bude provedena formou Dohody o provedení práce a vykazována v systému Redmine. Nabídku nám, prosím, zašli do 5. září 2017 včetně, do týdne se ti ozveme ohledně dalšího postupu. Nabídku pošli na adresu vybor@otevrenamesta.cz.</summary></entry><entry><title type="html">Členská schůze Otevřených měst &amp;amp;num;2 | Brno</title><link href="/2017/clenska_schuze_02.html" rel="alternate" type="text/html" title="Členská schůze Otevřených měst &amp;num;2 | Brno" /><published>2017-06-07T00:00:00+00:00</published><updated>2017-06-07T00:00:00+00:00</updated><id>/2017/clenska_schuze_02</id><content type="html" xml:base="/2017/clenska_schuze_02.html">&lt;p&gt;Zveme členy, zájemce o členství i ostatní příznivce na druhou členskou schůzi, která proběhne &lt;strong&gt;29. 6. v Brně od 10:00&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Členská schůze se uskutečnı́ v zasedacı́ mı́stnosti Podkova v budově &lt;strong&gt;Magistrátu města Brna&lt;/strong&gt; na adrese &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/?mlat=49.19381&amp;amp;mlon=16.60607#map=18/49.19381/16.60607&quot;&gt;Dominikánské náměstı́ 1&lt;/a&gt;&lt;/strong&gt;. Vstup do zasedacı́ mı́stnosti je z nádvořı́ (na obrázku vpravo dole).&lt;/p&gt;
+
+&lt;p&gt;Program jednání bude odsouhlasen účastníky na začátku schůze. Předpokládaný průběh je následující:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;bod&lt;/th&gt;
+      &lt;th&gt;kdy&lt;/th&gt;
+      &lt;th&gt;co&lt;/th&gt;
+      &lt;th&gt;zpravodaj&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;08:00&lt;/td&gt;
+      &lt;td&gt;otevření místnosti&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;09:15&lt;/td&gt;
+      &lt;td&gt;začátek registrace účastníků&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;09:55&lt;/td&gt;
+      &lt;td&gt;konec registrace účastníků&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;10:00&lt;/td&gt;
+      &lt;td&gt;schválení programu schůze&lt;/td&gt;
+      &lt;td&gt;členové&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;10:10&lt;/td&gt;
+      &lt;td&gt;jednacı́ řád členské schůze: vzdálená účast&lt;/td&gt;
+      &lt;td&gt;Marcel Kolaja&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;10:20&lt;/td&gt;
+      &lt;td&gt;zpráva předsedy o činnosti (in- frastruktura spolku, transparentnost a zveřejňované informace, účetnictvı́, registr smluv, CityVizor, Open Source web samosprávy, sdı́lenı́ zkušenostı́, vystoupenı́ na konferencı́ch)&lt;/td&gt;
+      &lt;td&gt;Marcel Kolaja&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;11:00&lt;/td&gt;
+      &lt;td&gt;priority projektů spolku pro následujı́cı́ obdobı́ (revize existujı́cı́ho seznamu projektů, registr smluv a spolupráce se spolkem BISON, nové návrhy členů)&lt;/td&gt;
+      &lt;td&gt;Marcel Kolaja&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;12:30&lt;/td&gt;
+      &lt;td&gt;přestávka&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;13:00&lt;/td&gt;
+      &lt;td&gt;tématické semináře/workshopy&lt;/td&gt;
+      &lt;td&gt;členové&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;16:00&lt;/td&gt;
+      &lt;td&gt;ukončení&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Také si dovolujeme upozornit na skutečnost, že hlasovat mohou pouze osoby, které doložily nebo nejpozději na členské schůzi doložı́ své oprávněnı́ zastupovat člena na členské schůzi. Netýká se osob, které jsou zastupujı́cı́mi dle Zákona o obcı́ch (např. starosta, mı́stostarosta,…), nebo byly uvedeny v usnesenı́ zastupitelstva.&lt;/p&gt;
+
+&lt;p&gt;Členské schůze bude možné se účastnit také s využitı́m videokonference Jitsi Meet na adrese &lt;a href=&quot;https://meet.jit.si/OM-20170629&quot;&gt;https://meet.jit.si/OM-20170629&lt;/a&gt;. Vzdáleně bude možné hlasovat pouze pomocı́ textových zpráv z mobilnı́ho telefonu.&lt;/p&gt;
+
+&lt;p&gt;Po ukončenı́ členské schůze bude následovat afterparty. Pro účely organizace nám, prosı́m, potvrd’te předběžný zájem o účast na afterparty. Dotazy směřujte na e-mailovou adresu  &lt;a href=&quot;mailto:info@otevrenamesta.cz&quot;&gt;info@otevrenamesta.cz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Těšíme se na setkání!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.otevrenamesta.cz/clenstvi/#Seznam_členů&quot;&gt;Seznam členů a jejich zástupců&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Vecer_by_Niederkasseler_-_panoramio.jpg#/media/File:Vecer_by_Niederkasseler_-_panoramio.jpg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/d/dd/Vecer_by_Niederkasseler_-_panoramio.jpg&quot; alt=&quot;Vecer by Niederkasseler - panoramio.jpg&quot; width=&quot;640&quot; height=&quot;427&quot; /&gt;&lt;/a&gt;&lt;br /&gt;By Niederkasseler, &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0&quot; title=&quot;Creative Commons Attribution-Share Alike 3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=55989995&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">Zveme členy, zájemce o členství i ostatní příznivce na druhou členskou schůzi, která proběhne 29. 6. v Brně od 10:00. Členská schůze se uskutečnı́ v zasedacı́ mı́stnosti Podkova v budově Magistrátu města Brna na adrese Dominikánské náměstı́ 1. Vstup do zasedacı́ mı́stnosti je z nádvořı́ (na obrázku vpravo dole). Program jednání bude odsouhlasen účastníky na začátku schůze. Předpokládaný průběh je následující: bod kdy co zpravodaj   08:00 otevření místnosti     09:15 začátek registrace účastníků     09:55 konec registrace účastníků   1 10:00 schválení programu schůze členové 2 10:10 jednacı́ řád členské schůze: vzdálená účast Marcel Kolaja 3 10:20 zpráva předsedy o činnosti (in- frastruktura spolku, transparentnost a zveřejňované informace, účetnictvı́, registr smluv, CityVizor, Open Source web samosprávy, sdı́lenı́ zkušenostı́, vystoupenı́ na konferencı́ch) Marcel Kolaja 4 11:00 priority projektů spolku pro následujı́cı́ obdobı́ (revize existujı́cı́ho seznamu projektů, registr smluv a spolupráce se spolkem BISON, nové návrhy členů) Marcel Kolaja 5 12:30 přestávka   6 13:00 tématické semináře/workshopy členové 7 16:00 ukončení   Také si dovolujeme upozornit na skutečnost, že hlasovat mohou pouze osoby, které doložily nebo nejpozději na členské schůzi doložı́ své oprávněnı́ zastupovat člena na členské schůzi. Netýká se osob, které jsou zastupujı́cı́mi dle Zákona o obcı́ch (např. starosta, mı́stostarosta,…), nebo byly uvedeny v usnesenı́ zastupitelstva. Členské schůze bude možné se účastnit také s využitı́m videokonference Jitsi Meet na adrese https://meet.jit.si/OM-20170629. Vzdáleně bude možné hlasovat pouze pomocı́ textových zpráv z mobilnı́ho telefonu. Po ukončenı́ členské schůze bude následovat afterparty. Pro účely organizace nám, prosı́m, potvrd’te předběžný zájem o účast na afterparty. Dotazy směřujte na e-mailovou adresu info@otevrenamesta.cz. Těšíme se na setkání! Seznam členů a jejich zástupců By Niederkasseler, CC BY-SA 3.0, Link</summary></entry></feed>
