@@ -18,7 +18,7 @@ author: Ondřej Profant
 email: profanto@psp.cz
 description: > # this means to ignore newlines until "baseurl:"
   Zveřejnování smluv a dobrá praxe, Open source, Open data, Zapojení občanů online, Spolupráce s ostatními aktéry
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/omnew" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: otevřenost, transparentnost, spolek obcí, otevřené fungování radnice, open-source software, opendata
 twitter_username: 
