@@ -4,11 +4,10 @@ rvm:
 script:
   - npm install
   - JEKYLL_ENV=production bundle exec jekyll build
-  - bundle exec htmlproofer ./_site  --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
 
 deploy:
   provider: pages
-  fqdn: www.profant.eu
+  fqdn: otevrenamesta.cz
   local-dir: _site
   skip-cleanup: true
   # https://docs.travis-ci.com/user/deployment/pages/#setting-the-github-token
