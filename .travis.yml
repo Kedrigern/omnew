@@ -7,7 +7,6 @@ script:
 
 deploy:
   provider: pages
-  fqdn: otevrenamesta.cz
   local-dir: _site
   skip-cleanup: true
   # https://docs.travis-ci.com/user/deployment/pages/#setting-the-github-token
