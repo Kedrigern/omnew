@@ -81,7 +81,6 @@
 
     &__brand img {
         height: 2rem;
-        border-right: 1px $dark-gray solid;
         padding-right: 1rem;
 
         @include breakpoint(medium up) {

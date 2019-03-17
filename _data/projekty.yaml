@@ -3,7 +3,7 @@ software:
     subtitle: Rozklikávací rozpočet pro každého  
     img: projekty/cityvizor.jpg
     url: https://cityvizor.cz
-    short: Moderní, rychlý a podrobný rozklikávací rozpočet pro každého. Stačí dodat ananymizovaná data a můžete se zapojit.
+    short: Moderní, rychlý a podrobný rozklikávací rozpočet pro každého. Stačí dodat anonymizovaná data a můžete se zapojit.
     long:
     homepage: yes
   - title: Internet věcí
@@ -25,6 +25,7 @@ slevy:
   - title: Tenderman
     subtitle: 30% sleva pro členské obce
   - title: D21
+    subtitle: 21-33% sleva pro členské obce
 knowhow:
   - title: GDPR
     subtitle: Pro naše obce jsme na jaře 2018 uspořádali seminář k GDPR.

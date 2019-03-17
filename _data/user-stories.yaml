@@ -1,0 +1,23 @@
+- title: GDPR
+  who: Martin Šebek, Černošice
+  short: Díky spolupráci v rámci spolku Otevřená města jsme ušetřili nemalé náklady při implementaci evropského nařízení GDPR do prostředí městského úřadu.
+  long: >
+    Díky spolupráci v rámci spolku Otevřená města jsme ušetřili nemalé náklady při implementaci evropského nařízení GDPR do prostředí městského úřadu. V první chvíli jsme, tak jako každý jiný subjekt veřejné správy, byli zavaleni komerčními nabídkami, které za nás měly vše vyřešit v cenových relacích od řádu set tisíc Kč až po řádově milión Kč. V rámci komunikace se členy Otevřených měst a i díky semináři, který spolek Otevřená města uspořádal, jsme postupně pronikli do problematiky a mohli se rozhodnout, jakým způsobem budeme tuto oblast řešit. Výhodou pro nás bylo, že jsme měli vyřešenu oblast ochrany osobních údajů dle zák. č. 101/2000 Sb., tedy nezačínali jsme tzv. „na zelené louce“.
+
+    Ve finále jsme zvolili řešení, kdy jsme vstoupili do smluvního vztahu s firmou, která nám zajistila jak prvotní nastavení procesů a pomohla zajistit potřebné dokumenty a informace, tak nám zajišťuje služby DPO. Náklady na prvotní analýzu a nastavení nepřesáhly 20.000,- Kč, služba DPO vychází ročně do 9.000,- Kč.
+
+    Toto bylo možné jen díky znalostem, které jsme získali díky konzultacím mezi členy a i díky konzultacím mezi Otevřenými městy a spolupracujícími organizacemi. Tyto znalosti v době, kdy naprosto selhaly centrální úřady, které informace týkající se této evropské normy publikovaly až se značným zpožděním, byly klíčové pro naše rozhodování a pro odolání tlaku komerčních subjektů, kdy veškerá jejich snaha byla vyvolána s cílem maximalizovat zisk, a to vyvoláváním strachu z ustanovení nařízení, která však byla vytržena z kontextu.
+
+    Tedy díky této aktivitě u nás prokazatelně došlo k úspoře nákladů. Na půdu spolku jsou přinášeny i další problémy a otázky, kdy mezi členy probíhá komunikace nad „denním provozem“ a díky sdílení zkušeností jsou schopni vyřešit spoustu problémů, aniž by byla nutná (většinou placená) součinnost dodavatelů jednotlivých informačních systémů či aniž by museli složitě analyzovat a vymýšlet nová řešení, když již mohou existovat osvědčená a vyzkoušená.
+
+    Doufáme, že tato spolupráce bude nadále rozvíjena a šířena i mezi potencionálními členy.
+- title: IoT
+  who: Michal Šmarda, Nové město na Moravě
+  short: Díky podpoře Otevřených měst, jsme ve velmi krátkém čase dokázali efektivně uchopit komplexní problematiku IoT. Následně jsme společně pracovali na pilotním projektu, kterým jsme dokázali pokrýt naše město vlastní sítí IoT opírající se na TTN. Dále jsme společně spustili řešení základních úloh, které nám umožnily využití dat a nastavení správné cesty při jejich sběru. Dnes jsme díky této spolupráci získali platformu, kterou využívá jak město tak i ostatní uživatelé.
+  long: 
+- title: Cityvizor
+  who: Praha 7
+  short: Praha 7 využila Cityvizor a bez dalších nákladů získala rychlý a přehledný rozklikavací rozpočet. 
+  long: Praha 7 využila Cityvizor a bez dalších nákladů získala rychlý a přehledný rozklikavací rozpočet. Stačilo exportovat patřičná data a Otevřená města se o všechno další postarala. Viz https://cityvizor.cz/praha7/prehled
+
+

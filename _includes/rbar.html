@@ -1,16 +1,13 @@
 <aside class="rbox">
-  {% if site.twitter_username %}
-    <a class="twitter-timeline" href="https://twitter.com/{{site.twitter_username}}" data-height="1060">Krátce od @{{ site.twitter_username }}</a>
-  {% endif %}
-
-  {% comment %}
-    <h4>Kategorie</h4>
+    <h2>Kdo jsme?</h2>
+    <p>Spolek 15 obcí, které chtějí být otevřené vůči svým občanům. Chceme na řešeních spolupracovat a ušetřit tím prostředky naší obce. Připojte se k nám!</p>
+    <h2><a href="{{ site.baseurl }}/clenstvi">Naši členi</a></h2>
+    {% assign obce = site.data.clenstvi %}
     <ul>
-      <li><a href="#">opendata</a></li>
-      <li><a href="#">e-government</a></li>
-      <li><a href="#">sněmovna / politika</a></li>
-      <li><a href="#">cyklistika</a></li>
-      <li><a href="#">ostatní</a></li>
+      {% for obec in obce limit: 4 %}
+      <li>{{obec.obec}}: {{obec.obyvatel}} obyvatel</li>
+      {% endfor %}
+      <li>...</li>
     </ul>
-  {% endcomment %}
+    Celkem {{ site.data.clenstvi | size }} obcí.
 </aside>
