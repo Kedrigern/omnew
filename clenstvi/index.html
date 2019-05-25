@@ -55,7 +55,7 @@
         <li class="sitenav-items__item">
           <ul class="sitenav-links">
             <li class="sitenav-links__link"><a  href="/omnew/projekty/">Projekty</a></li>
-            <li class="sitenav-links__link"><a  href="/omnew/clenstvi/">Členové</a></li>
+            <li class="sitenav-links__link sitenav-links__link--active"><a  href="/omnew/clenstvi/">Členové</a></li>
             <li class="sitenav-links__link"><a  href="/omnew/otevrenost/">Otevřenost</a></li>
             <li class="sitenav-links__link"><a  href="/omnew/kontakt/">Kontakt</a></li>
           </ul>
@@ -96,7 +96,17 @@
 
 <h1>Členové</h1>
 
-<table>
+<style>
+  #tabulka-clenu tr td:first-child {
+     font-weight: bold;
+  }
+  #tabulka-clenu tr td:nth-child(n+2):nth-child(-n+6) {
+    text-align: right;
+    font-family: monospace;
+  }
+</style>
+
+<table id="tabulka-clenu">
     <thead>
       <tr>
         <th>obec</th>
@@ -112,7 +122,7 @@
     </thead>
     <tbody>
       
-        <tr>
+        <tr> 
           
           <td>Brno</td>
           
@@ -134,7 +144,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Brno-Medlánky</td>
           
@@ -156,7 +166,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Brno-střed</td>
           
@@ -178,7 +188,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Černošice</td>
           
@@ -200,7 +210,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Choceň</td>
           
@@ -222,7 +232,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Kutná Hora</td>
           
@@ -244,7 +254,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Nové Město na Moravě</td>
           
@@ -266,7 +276,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Tábor</td>
           
@@ -288,7 +298,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Praha 1</td>
           
@@ -310,7 +320,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Praha 3</td>
           
@@ -332,7 +342,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Praha 5</td>
           
@@ -354,7 +364,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Praha 7</td>
           
@@ -376,7 +386,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Praha 22</td>
           
@@ -398,7 +408,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Praha-Ďáblice</td>
           
@@ -420,7 +430,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Psáry</td>
           
@@ -442,7 +452,7 @@
           
         </tr>
       
-        <tr>
+        <tr> 
           
           <td>Úvaly</td>
           
