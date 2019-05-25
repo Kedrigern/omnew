@@ -1,28 +1,14 @@
 <div class="sitebanner show-for-medium">
 	<div class="row">
 		<div class="columns medium-6">
-				<div class="row">
-					<div class="columns medium-12">
-							<h2>Stories</h2>
-						</div>
-					</div>
-					<div class="row">
 						{% assign stories = site.data.user-stories %}
 						{% assign story = stories[0] %}
 						{% assign projekt = site.data.projekty.software[0] %}
-						<div class="columns medium-0">
-						</div>
 						<div class="columns medium-12">
 							<h3>{{story.title}}</h3> <blockquote>{{story.short}}</blockquote> -- {{story.who}}
 						</div>
-					</div>
 		</div>
 		<div class="columns medium-6">
-			<div class="row">
-				<div class="columns medium-12">
-					<h2>Projekty <small>více</small></h2>
-				</div>
-			</div>
 			<div class="row">
 				{% assign projekt = site.data.projekty.software[0] %}
 				<div class="columns medium-4">

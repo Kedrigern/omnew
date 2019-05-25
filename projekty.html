@@ -3,9 +3,9 @@ layout: page
 permalink: /projekty/ 
 ---
 
-<h1>Projekty</h1>
-
+<div class="row">
 <h2>Sofware</h2>
+</div>
 
 <div class="row">
 {% for projekt in site.data.projekty.software %}
@@ -13,7 +13,7 @@ permalink: /projekty/
     <div class="card-divider">
       <h4>{{projekt.title}}</h4>
     </div>
-    <img src="{{ projekt.img | prepend: '/assets/img/' | baseurl }}">
+    <img src="{{ projekt.img | prepend: '/assets/img/' | baseurl }}" style="width: 280px; height: 200px">
     <div class="card-section">
       <p>{{projekt.subtitle}}</p>
     </div>
@@ -22,20 +22,40 @@ permalink: /projekty/
 </div>
 
 <div class="row">
-  <div class="columns medium-4">
-    <h2>Slevy</h2>
-    {% for projekt in site.data.projekty.slevy %}
-    <p><strong>{{projekt.title}}</strong>: {{projekt.subtitle}}</p>
-    {% endfor %} 
-  </div>
-
-  <div class="columns medium-8">
-    <h2>Odborné semináře a sdílení know-how</h2>
-
-    {% for projekt in site.data.projekty.knowhow %}
-      <div class="columns medium-4">
-      <p>{{projekt.subtitle}}</p>
-      </div>
-    {% endfor %} 
-  </div>
+  <h2>Odborné semináře a sdílení know-how</h2>
 </div>
+
+<div class="row">
+{% for projekt in site.data.projekty.knowhow %}
+  <div class="card" style="width: 300px;">
+    <div class="card-divider">
+      <h4>{{projekt.title}}</h4>
+    </div>
+    <img src="{{ projekt.img | prepend: '/assets/img/' | baseurl }}" style="width: 280px; height: 200px">
+    <div class="card-section">
+      <p>{{projekt.subtitle}}</p>
+    </div>
+  </div>
+{% endfor %} 
+</div>
+
+<div class="row">
+  <h2>Slevy</h2>
+</div>
+  
+<div class="row">
+{% for projekt in site.data.projekty.slevy%}
+  <div class="card" style="width: 300px;">
+    <div class="card-divider">
+      <h4>{{projekt.title}}</h4>
+    </div>
+    {% if projekt.img %}
+    <img src="{{ projekt.img | prepend: '/assets/img/' | baseurl }}" style="width: 280px; height: 200px">
+    {% endif %}
+    <div class="card-section">
+      <p>{{projekt.subtitle}}</p>
+    </div>
+  </div>
+{% endfor %} 
+</div>
+

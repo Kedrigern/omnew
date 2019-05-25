@@ -24,7 +24,17 @@ permalink: /clenstvi/
 
 <h1>Členové</h1>
 
-<table>
+<style>
+  #tabulka-clenu tr td:first-child {
+     font-weight: bold;
+  }
+  #tabulka-clenu tr td:nth-child(n+2):nth-child(-n+6) {
+    text-align: right;
+    font-family: monospace;
+  }
+</style>
+
+<table id="tabulka-clenu">
     <thead>
       <tr>
         <th>obec</th>
@@ -40,7 +50,7 @@ permalink: /clenstvi/
     </thead>
     <tbody>
       {% for record in site.data.clenstvi %}
-        <tr>
+        <tr> 
           {% for cell in record %}
           <td>{{cell[1]}}</td>{% comment %}{% endcomment%}
           {% endfor %}

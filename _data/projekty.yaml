@@ -24,11 +24,14 @@ software:
 slevy:
   - title: Tenderman
     subtitle: 30% sleva pro členské obce
-  - title: D21
-    subtitle: 21-33% sleva pro členské obce
 knowhow:
   - title: GDPR
+    img: projekty/gdpr-seminar.jpg
     subtitle: Pro naše obce jsme na jaře 2018 uspořádali seminář k GDPR.
     homepage: no
   - title: Veřejná správa prakticky
+    img:
     subtitle: Uspořádali jsme konferenci primárně zaměřenou pro naše obce.
+  - title: Public Money? Public code!
+    img: projekty/publiccode.png
+    subtitle: Brožura seznamující s open source

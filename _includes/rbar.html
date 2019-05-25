@@ -1,6 +1,6 @@
 <aside class="rbox">
     <h2>Kdo jsme?</h2>
-    <p>Spolek 15 obcí, které chtějí být otevřené vůči svým občanům. Chceme na řešeních spolupracovat a ušetřit tím prostředky naší obce. Připojte se k nám!</p>
+    <p>Spolek {{ site.data.clenstvi | size }} obcí, které chtějí být otevřené vůči svým občanům. Chceme na řešeních spolupracovat a ušetřit tím prostředky naší obce. <strong><a href="{{'clenstvi/' | baseurl}}">Připojte se k nám!</a></strong></p>
     <h2><a href="{{ site.baseurl }}/clenstvi">Naši členi</a></h2>
     {% assign obce = site.data.clenstvi %}
     <ul>
@@ -9,5 +9,5 @@
       {% endfor %}
       <li>...</li>
     </ul>
-    Celkem {{ site.data.clenstvi | size }} obcí.
+    <p>Celkem {{ site.data.clenstvi | size }} obcí.</p>
 </aside>
