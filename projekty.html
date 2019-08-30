@@ -13,7 +13,7 @@ permalink: /projekty/
     <div class="card-divider">
       <h4>{{projekt.title}}</h4>
     </div>
-    <img src="{{ projekt.img | prepend: '/assets/img/' | baseurl }}" style="width: 280px; height: 200px">
+    <img src="{{ projekt.img | prepend: '/assets/img/' | relative_url }}" style="width: 280px; height: 200px">
     <div class="card-section">
       <p>{{projekt.subtitle}}</p>
     </div>
@@ -31,7 +31,7 @@ permalink: /projekty/
     <div class="card-divider">
       <h4>{{projekt.title}}</h4>
     </div>
-    <img src="{{ projekt.img | prepend: '/assets/img/' | baseurl }}" style="width: 280px; height: 200px">
+    <img src="{{ projekt.img | prepend: '/assets/img/' | relative_url }}" style="width: 280px; height: 200px">
     <div class="card-section">
       <p>{{projekt.subtitle}}</p>
     </div>
@@ -50,7 +50,7 @@ permalink: /projekty/
       <h4>{{projekt.title}}</h4>
     </div>
     {% if projekt.img %}
-    <img src="{{ projekt.img | prepend: '/assets/img/' | baseurl }}" style="width: 280px; height: 200px">
+    <img src="{{ projekt.img | prepend: '/assets/img/' | relative_url }}" style="width: 280px; height: 200px">
     {% endif %}
     <div class="card-section">
       <p>{{projekt.subtitle}}</p>
