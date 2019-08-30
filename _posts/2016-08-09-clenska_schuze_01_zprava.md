@@ -1,8 +1,11 @@
 ---
 layout:       blog
+image:        galerie1.jpg
 title:        Členská schůze Otevřených měst &num;1 - zpráva | Brno
 ---
 V úterý 9. srpna se v Brně konala první členská schůze nově založeného spolku Otevřená města. Na schůzi byly jednomyslně přijaty stanovy a členové si zvolili své vedení.
+ 
+ <!--more-->
 
 Do čela spolku byl zvolen předseda Marcel Kolaja, dále byli zvoleni 4 členové výkonného výboru, jmenovitě Ladislav Nešněra, 
 Viktor Čahoj, Michal Šmarda a Ondřej Profant.

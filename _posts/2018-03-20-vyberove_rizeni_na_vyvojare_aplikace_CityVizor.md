@@ -4,12 +4,16 @@ title:        Výběrové řízení na vývojáře aplikace CityVizor, která sl
 ---
 Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na vývojáře aplikace [Cityvizor](https://cityvizor.cz/), která slouží jako transparentní dashboard obce.
 
+ <!--more-->
+
 Poptávaná činnost:
+
 - správa aplikace CityVizor (cityvizor.cz): řešení ad hoc problémů, implementace dohodnutých vylepšení (návody, fulltextové vyhledávání,...)
 - pomoc s přípravou softwaru pro transformaci účetních dat
 - analytické práce
 
 Požadujeme:
+
 - zkušenost se správou a vývojem webů ve výše zmíněných jazycích
 - časovou flexibilitu v případě urgentních záležitostí
 - soběstačnost
@@ -19,12 +23,14 @@ Požadujeme:
 - znalost ekonomického názvosloví v rozsahu užití v CityVizor
 
 Technické informace o CityVizoru:
+
 - Frontend: Angular 2
 - Backend: Node, MongoDB
 - Transformace: Python
-- zdrojové kódy aplikace: https://github.com/otevrena-data-mfcr/CityVizor
+- [zdrojové kódy aplikace](https://github.com/otevrena-data-mfcr/CityVizor)
 
 Hodnotící kritéria:
+
 - odborná kvalifikace 60%
 - nabídnutá cena 40%
 

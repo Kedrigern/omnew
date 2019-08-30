@@ -19,13 +19,8 @@ email: profanto@psp.cz
 description: > # this means to ignore newlines until "baseurl:"
   Zveřejnování smluv a dobrá praxe, Open source, Open data, Zapojení občanů online, Spolupráce s ostatními aktéry
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kedrigern.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kedrigern.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: otevřenost, transparentnost, spolek obcí, otevřené fungování radnice, open-source software, opendata
-twitter_username: 
-github_username:  
-facebook_username:
-cover_image: 
-img: 
 permalink: /:year/:title:output_ext
 
 # Build settings

@@ -1,10 +1,15 @@
 ---
 layout:       blog
+image:        cityvizor.jpg
 title:        Výběrové řízení na asistenta výboru a projektového manažera aplikace CityVizor
 ---
+
 Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na asistenta výboru a projektového manažera aplikace [CityVizor](https://cityvizor.cz/), která slouží jako transparentní dashboard obce.
 
+ <!--more-->
+
 Poptávaná činnost:
+
 - aktivní oslovování obcí k účasti v aplikaci [CityVizor](https://cityvizor.cz/)
 - aktivní oslovování obcí k účasti ve spolku Otevřených měst
 - komunikace s obcemi ohledně provozu aplikace CityVizor (první úroveň podpory)
@@ -16,6 +21,7 @@ Poptávaná činnost:
 - analytické práce
 
 Nabízíme:
+
 - 200-250 Kč/h na IČo při minimálním rozsahu 30 h/měsíčně, očekávaný rozsah 50 h/měsíčně. Maximální rozsah dle dohody a časových možností. Přesná hodinová odměna dle zkušeností
 - v případě hlubšího zapojení do činnosti spolku kariérní i finanční růst
 - možnost podílet se na realizaci aktivit spolku Otevřených měst

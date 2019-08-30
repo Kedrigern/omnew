@@ -4,6 +4,8 @@ title:        Členská schůze Otevřených měst &num;2 | Brno
 ---
 Zveme členy, zájemce o členství i ostatní příznivce na druhou členskou schůzi, která proběhne **29. 6. v Brně od 10:00**.
 
+ <!--more-->
+
 Členská schůze se uskutečnı́ v zasedacı́ mı́stnosti Podkova v budově **Magistrátu města Brna** na adrese **[Dominikánské náměstı́ 1](https://www.openstreetmap.org/?mlat=49.19381&mlon=16.60607#map=18/49.19381/16.60607)**. Vstup do zasedacı́ mı́stnosti je z nádvořı́ (na obrázku vpravo dole).
 
 Program jednání bude odsouhlasen účastníky na začátku schůze. Předpokládaný průběh je následující:
