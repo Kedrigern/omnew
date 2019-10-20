@@ -5,8 +5,6 @@ description:  open source, FLOSS, svobodný software
 permalink:    /open-source/
 ---
 
-# Open source pro města
-
 Open source software, tedy software s otevřeným zdrojovým kódem, je pojem úzce spjatý s problematikou vývoje a údržby software. Proto jsme se rozhodli sepsat pár základních poznatků, abychom napomohli orientaci i laiků.
 
 ## Slovníček
