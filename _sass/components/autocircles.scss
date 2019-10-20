@@ -1,0 +1,26 @@
+
+/* contents */
+
+$contents-margin : 230px;
+$contents-separator: 15px;
+
+.circle {
+  @include image-radius(75px);
+}
+
+.side {
+  @media #{$medium-up} {
+  margin-left: -$contents-margin ;
+  float:left;}
+  margin-bottom: 10px;
+}
+
+.media {
+  width: 0.75*$contents-margin;
+}
+
+#autocircles img:not(.title):not(.notcircle) {
+  @extend .side;
+  @extend .circle;
+}
+

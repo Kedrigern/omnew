@@ -1,0 +1,8 @@
+@mixin image-radius($radius) {
+  width: $radius * 2;
+ height: $radius * 2;
+-webkit-border-radius: $radius;
+-moz-border-radius: $radius;
+-ms-border-radius: $radius;
+border-radius: $radius;
+}
