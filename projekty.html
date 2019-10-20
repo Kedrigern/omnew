@@ -11,7 +11,7 @@ permalink: /projekty/
 {% for projekt in site.data.projekty.software %}
   <div class="card" style="width: 300px;">
     <div class="card-divider">
-      <h4>{{projekt.title}}</h4>
+      <h4><a href="{{projekt.url}}">{{projekt.title}}</a></h4>
     </div>
     <img src="{{ projekt.img | prepend: '/assets/img/' | relative_url }}" style="width: 280px; height: 200px">
     <div class="card-section">
